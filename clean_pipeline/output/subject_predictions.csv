@@ -1,0 +1,1816 @@
+subject,label,score,feature_set,model,repeat
+v107,0,0.24194727025816543,full (5 bands + TBR + HFD),RandomForest,0
+v108,0,0.29601788115509675,full (5 bands + TBR + HFD),RandomForest,0
+v109,0,0.6080585964275248,full (5 bands + TBR + HFD),RandomForest,0
+v10p,1,0.4304513260701396,full (5 bands + TBR + HFD),RandomForest,0
+v110,0,0.22964164362386005,full (5 bands + TBR + HFD),RandomForest,0
+v111,0,0.39566069944958343,full (5 bands + TBR + HFD),RandomForest,0
+v112,0,0.3349033575339973,full (5 bands + TBR + HFD),RandomForest,0
+v113,0,0.18205658059052626,full (5 bands + TBR + HFD),RandomForest,0
+v114,0,0.28206157219042804,full (5 bands + TBR + HFD),RandomForest,0
+v115,0,0.1819177269226421,full (5 bands + TBR + HFD),RandomForest,0
+v116,0,0.11593634350195768,full (5 bands + TBR + HFD),RandomForest,0
+v117,0,0.1225496704326148,full (5 bands + TBR + HFD),RandomForest,0
+v118,0,0.14472877567770856,full (5 bands + TBR + HFD),RandomForest,0
+v120,0,0.2594661628265508,full (5 bands + TBR + HFD),RandomForest,0
+v121,0,0.2494009229911758,full (5 bands + TBR + HFD),RandomForest,0
+v123,0,0.4155279008188189,full (5 bands + TBR + HFD),RandomForest,0
+v125,0,0.4405812777645289,full (5 bands + TBR + HFD),RandomForest,0
+v127,0,0.7730093904988581,full (5 bands + TBR + HFD),RandomForest,0
+v129,0,0.5181146234659537,full (5 bands + TBR + HFD),RandomForest,0
+v12p,1,0.16917433702703716,full (5 bands + TBR + HFD),RandomForest,0
+v131,0,0.5783391410101376,full (5 bands + TBR + HFD),RandomForest,0
+v133,0,0.5322788957081667,full (5 bands + TBR + HFD),RandomForest,0
+v134,0,0.6461465551374873,full (5 bands + TBR + HFD),RandomForest,0
+v138,0,0.5189619663118499,full (5 bands + TBR + HFD),RandomForest,0
+v140,0,0.7693570735610561,full (5 bands + TBR + HFD),RandomForest,0
+v143,0,0.7935569470185198,full (5 bands + TBR + HFD),RandomForest,0
+v147,0,0.7844753826965654,full (5 bands + TBR + HFD),RandomForest,0
+v149,0,0.7526820463307309,full (5 bands + TBR + HFD),RandomForest,0
+v14p,1,0.26601370863883994,full (5 bands + TBR + HFD),RandomForest,0
+v151,0,0.2971875386386026,full (5 bands + TBR + HFD),RandomForest,0
+v15p,1,0.3608706413715548,full (5 bands + TBR + HFD),RandomForest,0
+v173,1,0.7885468240901345,full (5 bands + TBR + HFD),RandomForest,0
+v177,1,0.8273286541416496,full (5 bands + TBR + HFD),RandomForest,0
+v179,1,0.7270897156136351,full (5 bands + TBR + HFD),RandomForest,0
+v181,1,0.863789444113863,full (5 bands + TBR + HFD),RandomForest,0
+v183,1,0.8219622500572048,full (5 bands + TBR + HFD),RandomForest,0
+v18p,1,0.7251112069892873,full (5 bands + TBR + HFD),RandomForest,0
+v190,1,0.14999190317524028,full (5 bands + TBR + HFD),RandomForest,0
+v196,1,0.5343970916518146,full (5 bands + TBR + HFD),RandomForest,0
+v198,1,0.8306588547748108,full (5 bands + TBR + HFD),RandomForest,0
+v19p,1,0.5226058200241277,full (5 bands + TBR + HFD),RandomForest,0
+v1p,1,0.261218525290987,full (5 bands + TBR + HFD),RandomForest,0
+v200,1,0.8435942450978999,full (5 bands + TBR + HFD),RandomForest,0
+v204,1,0.5086617789154324,full (5 bands + TBR + HFD),RandomForest,0
+v206,1,0.3491767661750751,full (5 bands + TBR + HFD),RandomForest,0
+v209,1,0.8847972366651542,full (5 bands + TBR + HFD),RandomForest,0
+v20p,1,0.6381241914782749,full (5 bands + TBR + HFD),RandomForest,0
+v213,1,0.9421608486881105,full (5 bands + TBR + HFD),RandomForest,0
+v215,1,0.9006999760921572,full (5 bands + TBR + HFD),RandomForest,0
+v219,1,0.5160570016821481,full (5 bands + TBR + HFD),RandomForest,0
+v21p,1,0.764657326485729,full (5 bands + TBR + HFD),RandomForest,0
+v227,1,0.5125789192316363,full (5 bands + TBR + HFD),RandomForest,0
+v22p,1,0.4897319131463256,full (5 bands + TBR + HFD),RandomForest,0
+v231,1,0.7240418652068045,full (5 bands + TBR + HFD),RandomForest,0
+v234,1,0.702954795113249,full (5 bands + TBR + HFD),RandomForest,0
+v236,1,0.9297077272672621,full (5 bands + TBR + HFD),RandomForest,0
+v238,1,0.8630852515196024,full (5 bands + TBR + HFD),RandomForest,0
+v244,1,0.833015790308397,full (5 bands + TBR + HFD),RandomForest,0
+v246,1,0.6573681751214098,full (5 bands + TBR + HFD),RandomForest,0
+v24p,1,0.6645023895625048,full (5 bands + TBR + HFD),RandomForest,0
+v250,1,0.7383932499072484,full (5 bands + TBR + HFD),RandomForest,0
+v254,1,0.6858133486291662,full (5 bands + TBR + HFD),RandomForest,0
+v25p,1,0.3367789237576671,full (5 bands + TBR + HFD),RandomForest,0
+v263,1,0.8838774812240197,full (5 bands + TBR + HFD),RandomForest,0
+v265,1,0.7874874957024453,full (5 bands + TBR + HFD),RandomForest,0
+v270,1,0.769011821066961,full (5 bands + TBR + HFD),RandomForest,0
+v274,1,0.8266918906862711,full (5 bands + TBR + HFD),RandomForest,0
+v279,1,0.8199532435165191,full (5 bands + TBR + HFD),RandomForest,0
+v27p,1,0.2042550266299402,full (5 bands + TBR + HFD),RandomForest,0
+v284,1,0.5825215225641853,full (5 bands + TBR + HFD),RandomForest,0
+v286,1,0.7357796499456555,full (5 bands + TBR + HFD),RandomForest,0
+v288,1,0.8190747784366608,full (5 bands + TBR + HFD),RandomForest,0
+v28p,1,0.2519950853740991,full (5 bands + TBR + HFD),RandomForest,0
+v297,0,0.26300924036089446,full (5 bands + TBR + HFD),RandomForest,0
+v298,0,0.7485406753426248,full (5 bands + TBR + HFD),RandomForest,0
+v299,0,0.35267772246858337,full (5 bands + TBR + HFD),RandomForest,0
+v29p,1,0.6176047191543045,full (5 bands + TBR + HFD),RandomForest,0
+v300,0,0.3492444888044423,full (5 bands + TBR + HFD),RandomForest,0
+v302,0,0.3949350079249277,full (5 bands + TBR + HFD),RandomForest,0
+v303,0,0.32357176674641175,full (5 bands + TBR + HFD),RandomForest,0
+v304,0,0.20967638377562395,full (5 bands + TBR + HFD),RandomForest,0
+v305,0,0.2430665912832243,full (5 bands + TBR + HFD),RandomForest,0
+v306,0,0.2362479894262145,full (5 bands + TBR + HFD),RandomForest,0
+v307,0,0.20482106037762904,full (5 bands + TBR + HFD),RandomForest,0
+v308,0,0.116692279466166,full (5 bands + TBR + HFD),RandomForest,0
+v309,0,0.2114989514293574,full (5 bands + TBR + HFD),RandomForest,0
+v30p,1,0.8588244177130581,full (5 bands + TBR + HFD),RandomForest,0
+v310,0,0.11886966070747902,full (5 bands + TBR + HFD),RandomForest,0
+v31p,1,0.8680448930156112,full (5 bands + TBR + HFD),RandomForest,0
+v32p,1,0.8882124092697745,full (5 bands + TBR + HFD),RandomForest,0
+v33p,1,0.8758942068397733,full (5 bands + TBR + HFD),RandomForest,0
+v34p,1,0.8030942249925112,full (5 bands + TBR + HFD),RandomForest,0
+v35p,1,0.8365176008178854,full (5 bands + TBR + HFD),RandomForest,0
+v36p,1,0.6639705532049035,full (5 bands + TBR + HFD),RandomForest,0
+v37p,1,0.965728206247267,full (5 bands + TBR + HFD),RandomForest,0
+v38p,1,0.635404190619013,full (5 bands + TBR + HFD),RandomForest,0
+v39p,1,0.7660546476577833,full (5 bands + TBR + HFD),RandomForest,0
+v3p,1,0.6454509483134535,full (5 bands + TBR + HFD),RandomForest,0
+v40p,1,0.8988365221276868,full (5 bands + TBR + HFD),RandomForest,0
+v41p,0,0.4138342183523078,full (5 bands + TBR + HFD),RandomForest,0
+v42p,0,0.44317389677150687,full (5 bands + TBR + HFD),RandomForest,0
+v43p,0,0.18249058970289206,full (5 bands + TBR + HFD),RandomForest,0
+v44p,0,0.31405515576634785,full (5 bands + TBR + HFD),RandomForest,0
+v45p,0,0.6649537742051652,full (5 bands + TBR + HFD),RandomForest,0
+v46p,0,0.17367549726896858,full (5 bands + TBR + HFD),RandomForest,0
+v47p,0,0.22568518007627142,full (5 bands + TBR + HFD),RandomForest,0
+v48p,0,0.10812201001936113,full (5 bands + TBR + HFD),RandomForest,0
+v49p,0,0.5990132797320405,full (5 bands + TBR + HFD),RandomForest,0
+v50p,0,0.2321189503892343,full (5 bands + TBR + HFD),RandomForest,0
+v51p,0,0.5923334078906453,full (5 bands + TBR + HFD),RandomForest,0
+v52p,0,0.21916951649738947,full (5 bands + TBR + HFD),RandomForest,0
+v53p,0,0.4781026080850276,full (5 bands + TBR + HFD),RandomForest,0
+v54p,0,0.2965454695409477,full (5 bands + TBR + HFD),RandomForest,0
+v55p,0,0.5320143140594614,full (5 bands + TBR + HFD),RandomForest,0
+v56p,0,0.15369214419525062,full (5 bands + TBR + HFD),RandomForest,0
+v57p,0,0.453491442660451,full (5 bands + TBR + HFD),RandomForest,0
+v58p,0,0.2388241777474901,full (5 bands + TBR + HFD),RandomForest,0
+v59p,0,0.5569246693786752,full (5 bands + TBR + HFD),RandomForest,0
+v60p,0,0.777943704734962,full (5 bands + TBR + HFD),RandomForest,0
+v6p,1,0.13946541759858322,full (5 bands + TBR + HFD),RandomForest,0
+v8p,1,0.32631085425007256,full (5 bands + TBR + HFD),RandomForest,0
+v107,0,-1.4099323415675566,full (5 bands + TBR + HFD),SVM-RBF,0
+v108,0,-1.0353595566096043,full (5 bands + TBR + HFD),SVM-RBF,0
+v109,0,0.22464054923048757,full (5 bands + TBR + HFD),SVM-RBF,0
+v10p,1,0.07547291364735614,full (5 bands + TBR + HFD),SVM-RBF,0
+v110,0,-0.9799319437217222,full (5 bands + TBR + HFD),SVM-RBF,0
+v111,0,-0.017993581574511593,full (5 bands + TBR + HFD),SVM-RBF,0
+v112,0,-0.4454891907033162,full (5 bands + TBR + HFD),SVM-RBF,0
+v113,0,-1.1495509619285076,full (5 bands + TBR + HFD),SVM-RBF,0
+v114,0,-0.8233997564068357,full (5 bands + TBR + HFD),SVM-RBF,0
+v115,0,-0.9064325911238218,full (5 bands + TBR + HFD),SVM-RBF,0
+v116,0,-1.2125331229757543,full (5 bands + TBR + HFD),SVM-RBF,0
+v117,0,-1.3864159332551365,full (5 bands + TBR + HFD),SVM-RBF,0
+v118,0,-1.5213923425123546,full (5 bands + TBR + HFD),SVM-RBF,0
+v120,0,-1.220994839752761,full (5 bands + TBR + HFD),SVM-RBF,0
+v121,0,-1.2955575118840608,full (5 bands + TBR + HFD),SVM-RBF,0
+v123,0,-0.8056737570518909,full (5 bands + TBR + HFD),SVM-RBF,0
+v125,0,-0.8475875584678491,full (5 bands + TBR + HFD),SVM-RBF,0
+v127,0,0.36172841712008974,full (5 bands + TBR + HFD),SVM-RBF,0
+v129,0,-0.3758073935013944,full (5 bands + TBR + HFD),SVM-RBF,0
+v12p,1,-0.9752737233396971,full (5 bands + TBR + HFD),SVM-RBF,0
+v131,0,-0.3934710072105165,full (5 bands + TBR + HFD),SVM-RBF,0
+v133,0,-0.6006582703646647,full (5 bands + TBR + HFD),SVM-RBF,0
+v134,0,0.12566725080947078,full (5 bands + TBR + HFD),SVM-RBF,0
+v138,0,0.29913556658156043,full (5 bands + TBR + HFD),SVM-RBF,0
+v140,0,0.9566993506724296,full (5 bands + TBR + HFD),SVM-RBF,0
+v143,0,0.02205562856283962,full (5 bands + TBR + HFD),SVM-RBF,0
+v147,0,0.3012655754765868,full (5 bands + TBR + HFD),SVM-RBF,0
+v149,0,-0.2108182983107013,full (5 bands + TBR + HFD),SVM-RBF,0
+v14p,1,-0.6781793971324788,full (5 bands + TBR + HFD),SVM-RBF,0
+v151,0,-0.8639426190418876,full (5 bands + TBR + HFD),SVM-RBF,0
+v15p,1,-1.0061770559254628,full (5 bands + TBR + HFD),SVM-RBF,0
+v173,1,0.728178456851289,full (5 bands + TBR + HFD),SVM-RBF,0
+v177,1,0.9788398210229184,full (5 bands + TBR + HFD),SVM-RBF,0
+v179,1,0.8744371952132808,full (5 bands + TBR + HFD),SVM-RBF,0
+v181,1,1.496452461041346,full (5 bands + TBR + HFD),SVM-RBF,0
+v183,1,1.2544727361602312,full (5 bands + TBR + HFD),SVM-RBF,0
+v18p,1,0.7395963275255624,full (5 bands + TBR + HFD),SVM-RBF,0
+v190,1,-0.7992446559019813,full (5 bands + TBR + HFD),SVM-RBF,0
+v196,1,-0.5599171116053205,full (5 bands + TBR + HFD),SVM-RBF,0
+v198,1,0.9935757856111181,full (5 bands + TBR + HFD),SVM-RBF,0
+v19p,1,-0.25401460423118716,full (5 bands + TBR + HFD),SVM-RBF,0
+v1p,1,-0.41349431196584563,full (5 bands + TBR + HFD),SVM-RBF,0
+v200,1,0.9191099727472732,full (5 bands + TBR + HFD),SVM-RBF,0
+v204,1,0.028248606977694758,full (5 bands + TBR + HFD),SVM-RBF,0
+v206,1,-0.38724393619425973,full (5 bands + TBR + HFD),SVM-RBF,0
+v209,1,0.9963294431119104,full (5 bands + TBR + HFD),SVM-RBF,0
+v20p,1,0.08514929696550935,full (5 bands + TBR + HFD),SVM-RBF,0
+v213,1,1.5868984101652224,full (5 bands + TBR + HFD),SVM-RBF,0
+v215,1,1.2863907073541658,full (5 bands + TBR + HFD),SVM-RBF,0
+v219,1,-0.18202456435041367,full (5 bands + TBR + HFD),SVM-RBF,0
+v21p,1,0.8773501381235067,full (5 bands + TBR + HFD),SVM-RBF,0
+v227,1,0.24877192266344267,full (5 bands + TBR + HFD),SVM-RBF,0
+v22p,1,0.3322684252511331,full (5 bands + TBR + HFD),SVM-RBF,0
+v231,1,0.3602488635033057,full (5 bands + TBR + HFD),SVM-RBF,0
+v234,1,1.2267020287721828,full (5 bands + TBR + HFD),SVM-RBF,0
+v236,1,1.772517265972875,full (5 bands + TBR + HFD),SVM-RBF,0
+v238,1,0.9033560174789423,full (5 bands + TBR + HFD),SVM-RBF,0
+v244,1,1.1110857621393482,full (5 bands + TBR + HFD),SVM-RBF,0
+v246,1,-0.19160669999817645,full (5 bands + TBR + HFD),SVM-RBF,0
+v24p,1,1.3336605260930898,full (5 bands + TBR + HFD),SVM-RBF,0
+v250,1,0.9775912288187174,full (5 bands + TBR + HFD),SVM-RBF,0
+v254,1,0.4079961900511589,full (5 bands + TBR + HFD),SVM-RBF,0
+v25p,1,-0.13477626916703292,full (5 bands + TBR + HFD),SVM-RBF,0
+v263,1,1.2959800499435945,full (5 bands + TBR + HFD),SVM-RBF,0
+v265,1,0.9712573587125769,full (5 bands + TBR + HFD),SVM-RBF,0
+v270,1,0.9425396040168718,full (5 bands + TBR + HFD),SVM-RBF,0
+v274,1,1.1041332720653472,full (5 bands + TBR + HFD),SVM-RBF,0
+v279,1,0.8324188829698875,full (5 bands + TBR + HFD),SVM-RBF,0
+v27p,1,-0.20589420449979318,full (5 bands + TBR + HFD),SVM-RBF,0
+v284,1,0.3480422195174706,full (5 bands + TBR + HFD),SVM-RBF,0
+v286,1,0.7627691452181672,full (5 bands + TBR + HFD),SVM-RBF,0
+v288,1,0.9745624613517069,full (5 bands + TBR + HFD),SVM-RBF,0
+v28p,1,-0.5986942442607825,full (5 bands + TBR + HFD),SVM-RBF,0
+v297,0,-0.3246725639772977,full (5 bands + TBR + HFD),SVM-RBF,0
+v298,0,0.43531371923541956,full (5 bands + TBR + HFD),SVM-RBF,0
+v299,0,-0.8584454415655026,full (5 bands + TBR + HFD),SVM-RBF,0
+v29p,1,0.5345296067233819,full (5 bands + TBR + HFD),SVM-RBF,0
+v300,0,-0.49072299821485377,full (5 bands + TBR + HFD),SVM-RBF,0
+v302,0,-0.5608199108262754,full (5 bands + TBR + HFD),SVM-RBF,0
+v303,0,-0.8770922135882482,full (5 bands + TBR + HFD),SVM-RBF,0
+v304,0,-1.257441116131609,full (5 bands + TBR + HFD),SVM-RBF,0
+v305,0,0.12638438453670622,full (5 bands + TBR + HFD),SVM-RBF,0
+v306,0,-0.1945837216608199,full (5 bands + TBR + HFD),SVM-RBF,0
+v307,0,-0.8412524413114606,full (5 bands + TBR + HFD),SVM-RBF,0
+v308,0,-1.2149296715231432,full (5 bands + TBR + HFD),SVM-RBF,0
+v309,0,-0.3767828703160967,full (5 bands + TBR + HFD),SVM-RBF,0
+v30p,1,1.228055785021731,full (5 bands + TBR + HFD),SVM-RBF,0
+v310,0,-0.7099605707500128,full (5 bands + TBR + HFD),SVM-RBF,0
+v31p,1,1.0511210725098408,full (5 bands + TBR + HFD),SVM-RBF,0
+v32p,1,1.2625132586024967,full (5 bands + TBR + HFD),SVM-RBF,0
+v33p,1,0.747414783793744,full (5 bands + TBR + HFD),SVM-RBF,0
+v34p,1,1.4537781767700682,full (5 bands + TBR + HFD),SVM-RBF,0
+v35p,1,1.1717010768430998,full (5 bands + TBR + HFD),SVM-RBF,0
+v36p,1,0.2535021156954262,full (5 bands + TBR + HFD),SVM-RBF,0
+v37p,1,1.6290443863444908,full (5 bands + TBR + HFD),SVM-RBF,0
+v38p,1,0.250934730001098,full (5 bands + TBR + HFD),SVM-RBF,0
+v39p,1,0.6755390392581258,full (5 bands + TBR + HFD),SVM-RBF,0
+v3p,1,0.1932222811567833,full (5 bands + TBR + HFD),SVM-RBF,0
+v40p,1,1.199463583891098,full (5 bands + TBR + HFD),SVM-RBF,0
+v41p,0,-0.3947091431481618,full (5 bands + TBR + HFD),SVM-RBF,0
+v42p,0,-0.36722355994581796,full (5 bands + TBR + HFD),SVM-RBF,0
+v43p,0,-0.8732125130592295,full (5 bands + TBR + HFD),SVM-RBF,0
+v44p,0,-0.3678559699446638,full (5 bands + TBR + HFD),SVM-RBF,0
+v45p,0,0.2690154945380587,full (5 bands + TBR + HFD),SVM-RBF,0
+v46p,0,-0.9207188417287376,full (5 bands + TBR + HFD),SVM-RBF,0
+v47p,0,-0.9649732640097898,full (5 bands + TBR + HFD),SVM-RBF,0
+v48p,0,-1.1388517792556867,full (5 bands + TBR + HFD),SVM-RBF,0
+v49p,0,0.3093378745362715,full (5 bands + TBR + HFD),SVM-RBF,0
+v50p,0,-0.5407259383428494,full (5 bands + TBR + HFD),SVM-RBF,0
+v51p,0,0.09768439772037218,full (5 bands + TBR + HFD),SVM-RBF,0
+v52p,0,-0.31838642816798374,full (5 bands + TBR + HFD),SVM-RBF,0
+v53p,0,-0.43971827915879513,full (5 bands + TBR + HFD),SVM-RBF,0
+v54p,0,-0.27174529821685556,full (5 bands + TBR + HFD),SVM-RBF,0
+v55p,0,-0.011741373923983023,full (5 bands + TBR + HFD),SVM-RBF,0
+v56p,0,-0.7942506859428686,full (5 bands + TBR + HFD),SVM-RBF,0
+v57p,0,-0.31850811151187725,full (5 bands + TBR + HFD),SVM-RBF,0
+v58p,0,-0.6050462779373376,full (5 bands + TBR + HFD),SVM-RBF,0
+v59p,0,0.32163126251782753,full (5 bands + TBR + HFD),SVM-RBF,0
+v60p,0,0.6909002957850225,full (5 bands + TBR + HFD),SVM-RBF,0
+v6p,1,-1.2173893052814027,full (5 bands + TBR + HFD),SVM-RBF,0
+v8p,1,0.9449817684546334,full (5 bands + TBR + HFD),SVM-RBF,0
+v107,0,0.26490943304525966,full (5 bands + TBR + HFD),KNN,0
+v108,0,0.27625426064102265,full (5 bands + TBR + HFD),KNN,0
+v109,0,0.7490993489380665,full (5 bands + TBR + HFD),KNN,0
+v10p,1,0.43465498677266196,full (5 bands + TBR + HFD),KNN,0
+v110,0,0.1454315033696522,full (5 bands + TBR + HFD),KNN,0
+v111,0,0.7446065779361891,full (5 bands + TBR + HFD),KNN,0
+v112,0,0.3969111107997409,full (5 bands + TBR + HFD),KNN,0
+v113,0,0.3449312039419183,full (5 bands + TBR + HFD),KNN,0
+v114,0,0.09078281820788264,full (5 bands + TBR + HFD),KNN,0
+v115,0,0.2204308016133093,full (5 bands + TBR + HFD),KNN,0
+v116,0,0.14303724691061573,full (5 bands + TBR + HFD),KNN,0
+v117,0,0.08673654025289446,full (5 bands + TBR + HFD),KNN,0
+v118,0,0.08626834903655416,full (5 bands + TBR + HFD),KNN,0
+v120,0,0.3532276829279834,full (5 bands + TBR + HFD),KNN,0
+v121,0,0.2332001992760189,full (5 bands + TBR + HFD),KNN,0
+v123,0,0.12457487006587888,full (5 bands + TBR + HFD),KNN,0
+v125,0,0.4222181783005328,full (5 bands + TBR + HFD),KNN,0
+v127,0,0.8235567199308987,full (5 bands + TBR + HFD),KNN,0
+v129,0,0.604024327835948,full (5 bands + TBR + HFD),KNN,0
+v12p,1,0.09073140231337465,full (5 bands + TBR + HFD),KNN,0
+v131,0,0.47531432148481617,full (5 bands + TBR + HFD),KNN,0
+v133,0,0.5870445979978742,full (5 bands + TBR + HFD),KNN,0
+v134,0,0.7822242105302379,full (5 bands + TBR + HFD),KNN,0
+v138,0,0.6281612386138354,full (5 bands + TBR + HFD),KNN,0
+v140,0,0.9334967662347375,full (5 bands + TBR + HFD),KNN,0
+v143,0,0.8577775172143097,full (5 bands + TBR + HFD),KNN,0
+v147,0,0.8812958025079956,full (5 bands + TBR + HFD),KNN,0
+v149,0,0.7600318401081616,full (5 bands + TBR + HFD),KNN,0
+v14p,1,0.25504253939995464,full (5 bands + TBR + HFD),KNN,0
+v151,0,0.42316452396483095,full (5 bands + TBR + HFD),KNN,0
+v15p,1,0.4902472556995419,full (5 bands + TBR + HFD),KNN,0
+v173,1,0.8088297412848375,full (5 bands + TBR + HFD),KNN,0
+v177,1,0.9080213600514143,full (5 bands + TBR + HFD),KNN,0
+v179,1,0.8802426254074499,full (5 bands + TBR + HFD),KNN,0
+v181,1,0.8709683238385141,full (5 bands + TBR + HFD),KNN,0
+v183,1,0.8697092742476608,full (5 bands + TBR + HFD),KNN,0
+v18p,1,0.8766477543534977,full (5 bands + TBR + HFD),KNN,0
+v190,1,0.3591905763427333,full (5 bands + TBR + HFD),KNN,0
+v196,1,0.7685967921866003,full (5 bands + TBR + HFD),KNN,0
+v198,1,0.8817005331935364,full (5 bands + TBR + HFD),KNN,0
+v19p,1,0.8155675412190309,full (5 bands + TBR + HFD),KNN,0
+v1p,1,0.4944131454742747,full (5 bands + TBR + HFD),KNN,0
+v200,1,0.8391081424434582,full (5 bands + TBR + HFD),KNN,0
+v204,1,0.7283546669711218,full (5 bands + TBR + HFD),KNN,0
+v206,1,0.435283949667911,full (5 bands + TBR + HFD),KNN,0
+v209,1,0.8707546354204966,full (5 bands + TBR + HFD),KNN,0
+v20p,1,0.7593355131204715,full (5 bands + TBR + HFD),KNN,0
+v213,1,0.932343115943994,full (5 bands + TBR + HFD),KNN,0
+v215,1,0.8768585961374554,full (5 bands + TBR + HFD),KNN,0
+v219,1,0.6239726846762569,full (5 bands + TBR + HFD),KNN,0
+v21p,1,0.8717540371879422,full (5 bands + TBR + HFD),KNN,0
+v227,1,0.5630002939963927,full (5 bands + TBR + HFD),KNN,0
+v22p,1,0.5758470431641199,full (5 bands + TBR + HFD),KNN,0
+v231,1,0.8093536313523236,full (5 bands + TBR + HFD),KNN,0
+v234,1,0.8808973127580739,full (5 bands + TBR + HFD),KNN,0
+v236,1,0.9403699035978601,full (5 bands + TBR + HFD),KNN,0
+v238,1,0.8981002875819689,full (5 bands + TBR + HFD),KNN,0
+v244,1,0.891795631939084,full (5 bands + TBR + HFD),KNN,0
+v246,1,0.712439860885046,full (5 bands + TBR + HFD),KNN,0
+v24p,1,0.8986712088479692,full (5 bands + TBR + HFD),KNN,0
+v250,1,0.8091888420943084,full (5 bands + TBR + HFD),KNN,0
+v254,1,0.723108413600974,full (5 bands + TBR + HFD),KNN,0
+v25p,1,0.48586672266364456,full (5 bands + TBR + HFD),KNN,0
+v263,1,0.899489643881658,full (5 bands + TBR + HFD),KNN,0
+v265,1,0.9128911244894288,full (5 bands + TBR + HFD),KNN,0
+v270,1,0.8673749802595264,full (5 bands + TBR + HFD),KNN,0
+v274,1,0.899426480029787,full (5 bands + TBR + HFD),KNN,0
+v279,1,0.9501928058350168,full (5 bands + TBR + HFD),KNN,0
+v27p,1,0.1977123678040655,full (5 bands + TBR + HFD),KNN,0
+v284,1,0.636475545726593,full (5 bands + TBR + HFD),KNN,0
+v286,1,0.8717798934463885,full (5 bands + TBR + HFD),KNN,0
+v288,1,0.8679102735183346,full (5 bands + TBR + HFD),KNN,0
+v28p,1,0.38074290541977707,full (5 bands + TBR + HFD),KNN,0
+v297,0,0.6409384268191163,full (5 bands + TBR + HFD),KNN,0
+v298,0,0.7330398808455736,full (5 bands + TBR + HFD),KNN,0
+v299,0,0.39099089253895025,full (5 bands + TBR + HFD),KNN,0
+v29p,1,0.8210723282241031,full (5 bands + TBR + HFD),KNN,0
+v300,0,0.3494731996766461,full (5 bands + TBR + HFD),KNN,0
+v302,0,0.4985710862751347,full (5 bands + TBR + HFD),KNN,0
+v303,0,0.30225071780445584,full (5 bands + TBR + HFD),KNN,0
+v304,0,0.14878790734741035,full (5 bands + TBR + HFD),KNN,0
+v305,0,0.3591697100791412,full (5 bands + TBR + HFD),KNN,0
+v306,0,0.4627127672689502,full (5 bands + TBR + HFD),KNN,0
+v307,0,0.32567164715560487,full (5 bands + TBR + HFD),KNN,0
+v308,0,0.16769195350884308,full (5 bands + TBR + HFD),KNN,0
+v309,0,0.38527460696279037,full (5 bands + TBR + HFD),KNN,0
+v30p,1,0.9716928422662025,full (5 bands + TBR + HFD),KNN,0
+v310,0,0.20609770335521238,full (5 bands + TBR + HFD),KNN,0
+v31p,1,0.8785701589053284,full (5 bands + TBR + HFD),KNN,0
+v32p,1,0.9017565690128589,full (5 bands + TBR + HFD),KNN,0
+v33p,1,0.8564667332909426,full (5 bands + TBR + HFD),KNN,0
+v34p,1,0.9254349923474353,full (5 bands + TBR + HFD),KNN,0
+v35p,1,0.9163842859120199,full (5 bands + TBR + HFD),KNN,0
+v36p,1,0.873290950206088,full (5 bands + TBR + HFD),KNN,0
+v37p,1,0.9486678581543904,full (5 bands + TBR + HFD),KNN,0
+v38p,1,0.7425355639909141,full (5 bands + TBR + HFD),KNN,0
+v39p,1,0.8005207322796656,full (5 bands + TBR + HFD),KNN,0
+v3p,1,0.7507665084999342,full (5 bands + TBR + HFD),KNN,0
+v40p,1,0.8966346378093735,full (5 bands + TBR + HFD),KNN,0
+v41p,0,0.5922790507227592,full (5 bands + TBR + HFD),KNN,0
+v42p,0,0.5221305974119164,full (5 bands + TBR + HFD),KNN,0
+v43p,0,0.1748927587142826,full (5 bands + TBR + HFD),KNN,0
+v44p,0,0.675142244924801,full (5 bands + TBR + HFD),KNN,0
+v45p,0,0.7941943798145912,full (5 bands + TBR + HFD),KNN,0
+v46p,0,0.21832131624053683,full (5 bands + TBR + HFD),KNN,0
+v47p,0,0.41961158452334585,full (5 bands + TBR + HFD),KNN,0
+v48p,0,0.1673733031713265,full (5 bands + TBR + HFD),KNN,0
+v49p,0,0.6576197229162957,full (5 bands + TBR + HFD),KNN,0
+v50p,0,0.4596221908561445,full (5 bands + TBR + HFD),KNN,0
+v51p,0,0.7334262808872887,full (5 bands + TBR + HFD),KNN,0
+v52p,0,0.34894990318635666,full (5 bands + TBR + HFD),KNN,0
+v53p,0,0.7328902003397563,full (5 bands + TBR + HFD),KNN,0
+v54p,0,0.3818746340291581,full (5 bands + TBR + HFD),KNN,0
+v55p,0,0.6781313815189842,full (5 bands + TBR + HFD),KNN,0
+v56p,0,0.30034359024821955,full (5 bands + TBR + HFD),KNN,0
+v57p,0,0.4099778291118678,full (5 bands + TBR + HFD),KNN,0
+v58p,0,0.36645823844321546,full (5 bands + TBR + HFD),KNN,0
+v59p,0,0.7440171589995395,full (5 bands + TBR + HFD),KNN,0
+v60p,0,0.9182376157595613,full (5 bands + TBR + HFD),KNN,0
+v6p,1,0.22057817143225605,full (5 bands + TBR + HFD),KNN,0
+v8p,1,0.6391549809980059,full (5 bands + TBR + HFD),KNN,0
+v107,0,0.47471348017362613,theta/beta ratio,RandomForest,0
+v108,0,0.3818944733362278,theta/beta ratio,RandomForest,0
+v109,0,0.6221445370480524,theta/beta ratio,RandomForest,0
+v10p,1,0.618305008063575,theta/beta ratio,RandomForest,0
+v110,0,0.5657901981020237,theta/beta ratio,RandomForest,0
+v111,0,0.5293135681016777,theta/beta ratio,RandomForest,0
+v112,0,0.4646671727976031,theta/beta ratio,RandomForest,0
+v113,0,0.5004760488352733,theta/beta ratio,RandomForest,0
+v114,0,0.4723604948797939,theta/beta ratio,RandomForest,0
+v115,0,0.47826317502182936,theta/beta ratio,RandomForest,0
+v116,0,0.4676470220525025,theta/beta ratio,RandomForest,0
+v117,0,0.45763704543432504,theta/beta ratio,RandomForest,0
+v118,0,0.5053249776226236,theta/beta ratio,RandomForest,0
+v120,0,0.4175684659343787,theta/beta ratio,RandomForest,0
+v121,0,0.4789911070878849,theta/beta ratio,RandomForest,0
+v123,0,0.48814233201753005,theta/beta ratio,RandomForest,0
+v125,0,0.453890580278978,theta/beta ratio,RandomForest,0
+v127,0,0.5981580291048305,theta/beta ratio,RandomForest,0
+v129,0,0.5312035712649388,theta/beta ratio,RandomForest,0
+v12p,1,0.4936602748756364,theta/beta ratio,RandomForest,0
+v131,0,0.5181280884722571,theta/beta ratio,RandomForest,0
+v133,0,0.4794406396961662,theta/beta ratio,RandomForest,0
+v134,0,0.4679819133637621,theta/beta ratio,RandomForest,0
+v138,0,0.4573133980130089,theta/beta ratio,RandomForest,0
+v140,0,0.41767905875073913,theta/beta ratio,RandomForest,0
+v143,0,0.5666623854698681,theta/beta ratio,RandomForest,0
+v147,0,0.44952382886382014,theta/beta ratio,RandomForest,0
+v149,0,0.5729512938908545,theta/beta ratio,RandomForest,0
+v14p,1,0.5399396726239374,theta/beta ratio,RandomForest,0
+v151,0,0.4068113014267963,theta/beta ratio,RandomForest,0
+v15p,1,0.5304984058367013,theta/beta ratio,RandomForest,0
+v173,1,0.5093278222072944,theta/beta ratio,RandomForest,0
+v177,1,0.48670748397550245,theta/beta ratio,RandomForest,0
+v179,1,0.6447316954560636,theta/beta ratio,RandomForest,0
+v181,1,0.4932159079207743,theta/beta ratio,RandomForest,0
+v183,1,0.568217055787217,theta/beta ratio,RandomForest,0
+v18p,1,0.5567770504241043,theta/beta ratio,RandomForest,0
+v190,1,0.5273509702662581,theta/beta ratio,RandomForest,0
+v196,1,0.5600215346312958,theta/beta ratio,RandomForest,0
+v198,1,0.5397211683044411,theta/beta ratio,RandomForest,0
+v19p,1,0.37348663407178323,theta/beta ratio,RandomForest,0
+v1p,1,0.5201367689746685,theta/beta ratio,RandomForest,0
+v200,1,0.5394429417993626,theta/beta ratio,RandomForest,0
+v204,1,0.5126780776321911,theta/beta ratio,RandomForest,0
+v206,1,0.5478420427078742,theta/beta ratio,RandomForest,0
+v209,1,0.541310090268612,theta/beta ratio,RandomForest,0
+v20p,1,0.5411656995208479,theta/beta ratio,RandomForest,0
+v213,1,0.6685652506434359,theta/beta ratio,RandomForest,0
+v215,1,0.5913237138007837,theta/beta ratio,RandomForest,0
+v219,1,0.4996332513512317,theta/beta ratio,RandomForest,0
+v21p,1,0.494735901353008,theta/beta ratio,RandomForest,0
+v227,1,0.4594765941796111,theta/beta ratio,RandomForest,0
+v22p,1,0.49148762366576,theta/beta ratio,RandomForest,0
+v231,1,0.5492353109005597,theta/beta ratio,RandomForest,0
+v234,1,0.5196267025258087,theta/beta ratio,RandomForest,0
+v236,1,0.4799081774908195,theta/beta ratio,RandomForest,0
+v238,1,0.5888758253831087,theta/beta ratio,RandomForest,0
+v244,1,0.49419458357497387,theta/beta ratio,RandomForest,0
+v246,1,0.5580780674852808,theta/beta ratio,RandomForest,0
+v24p,1,0.5594759937981137,theta/beta ratio,RandomForest,0
+v250,1,0.5282971235387444,theta/beta ratio,RandomForest,0
+v254,1,0.6395740016659058,theta/beta ratio,RandomForest,0
+v25p,1,0.5918756131048477,theta/beta ratio,RandomForest,0
+v263,1,0.5297815935823085,theta/beta ratio,RandomForest,0
+v265,1,0.6129201952759158,theta/beta ratio,RandomForest,0
+v270,1,0.57719929223814,theta/beta ratio,RandomForest,0
+v274,1,0.6787854762971158,theta/beta ratio,RandomForest,0
+v279,1,0.5497171295304498,theta/beta ratio,RandomForest,0
+v27p,1,0.4090038719217976,theta/beta ratio,RandomForest,0
+v284,1,0.5465095160128315,theta/beta ratio,RandomForest,0
+v286,1,0.7108383591544014,theta/beta ratio,RandomForest,0
+v288,1,0.6021835983262483,theta/beta ratio,RandomForest,0
+v28p,1,0.5244972939443169,theta/beta ratio,RandomForest,0
+v297,0,0.5668311605061398,theta/beta ratio,RandomForest,0
+v298,0,0.4724141117579225,theta/beta ratio,RandomForest,0
+v299,0,0.5187286320125829,theta/beta ratio,RandomForest,0
+v29p,1,0.5473912646586788,theta/beta ratio,RandomForest,0
+v300,0,0.4988229946397662,theta/beta ratio,RandomForest,0
+v302,0,0.6734317634034195,theta/beta ratio,RandomForest,0
+v303,0,0.6588688903750481,theta/beta ratio,RandomForest,0
+v304,0,0.44315360449199076,theta/beta ratio,RandomForest,0
+v305,0,0.4864366589897628,theta/beta ratio,RandomForest,0
+v306,0,0.5150360756562211,theta/beta ratio,RandomForest,0
+v307,0,0.5355889728006276,theta/beta ratio,RandomForest,0
+v308,0,0.4331430378848034,theta/beta ratio,RandomForest,0
+v309,0,0.45450288144290923,theta/beta ratio,RandomForest,0
+v30p,1,0.5081511806043584,theta/beta ratio,RandomForest,0
+v310,0,0.5393373823817075,theta/beta ratio,RandomForest,0
+v31p,1,0.5894427582687759,theta/beta ratio,RandomForest,0
+v32p,1,0.6230447533594135,theta/beta ratio,RandomForest,0
+v33p,1,0.49158864158255067,theta/beta ratio,RandomForest,0
+v34p,1,0.5131687207164152,theta/beta ratio,RandomForest,0
+v35p,1,0.4407351315336006,theta/beta ratio,RandomForest,0
+v36p,1,0.5447968626926949,theta/beta ratio,RandomForest,0
+v37p,1,0.7310899045731968,theta/beta ratio,RandomForest,0
+v38p,1,0.609513519529737,theta/beta ratio,RandomForest,0
+v39p,1,0.6019106401382706,theta/beta ratio,RandomForest,0
+v3p,1,0.58516376229972,theta/beta ratio,RandomForest,0
+v40p,1,0.5871673113211415,theta/beta ratio,RandomForest,0
+v41p,0,0.5843633167985423,theta/beta ratio,RandomForest,0
+v42p,0,0.5791247472329263,theta/beta ratio,RandomForest,0
+v43p,0,0.368660296677994,theta/beta ratio,RandomForest,0
+v44p,0,0.6267789673452404,theta/beta ratio,RandomForest,0
+v45p,0,0.6033004910586413,theta/beta ratio,RandomForest,0
+v46p,0,0.5241036522744127,theta/beta ratio,RandomForest,0
+v47p,0,0.5835775401584685,theta/beta ratio,RandomForest,0
+v48p,0,0.5814865775905674,theta/beta ratio,RandomForest,0
+v49p,0,0.558878540781541,theta/beta ratio,RandomForest,0
+v50p,0,0.7448743595679705,theta/beta ratio,RandomForest,0
+v51p,0,0.7552658246089039,theta/beta ratio,RandomForest,0
+v52p,0,0.6449545769967492,theta/beta ratio,RandomForest,0
+v53p,0,0.47053287432212143,theta/beta ratio,RandomForest,0
+v54p,0,0.5426656948620072,theta/beta ratio,RandomForest,0
+v55p,0,0.6256379783569478,theta/beta ratio,RandomForest,0
+v56p,0,0.5632827399595393,theta/beta ratio,RandomForest,0
+v57p,0,0.66342317723706,theta/beta ratio,RandomForest,0
+v58p,0,0.5895207738843138,theta/beta ratio,RandomForest,0
+v59p,0,0.6106367487639692,theta/beta ratio,RandomForest,0
+v60p,0,0.5329024527645667,theta/beta ratio,RandomForest,0
+v6p,1,0.6005201206605044,theta/beta ratio,RandomForest,0
+v8p,1,0.5914364879088052,theta/beta ratio,RandomForest,0
+v107,0,-0.6698238707297511,theta/beta ratio,SVM-RBF,0
+v108,0,-1.0566588815325337,theta/beta ratio,SVM-RBF,0
+v109,0,0.28174894416422064,theta/beta ratio,SVM-RBF,0
+v10p,1,0.5262914421139603,theta/beta ratio,SVM-RBF,0
+v110,0,-0.26661407618015603,theta/beta ratio,SVM-RBF,0
+v111,0,-0.12630069372367073,theta/beta ratio,SVM-RBF,0
+v112,0,-0.6398383770665649,theta/beta ratio,SVM-RBF,0
+v113,0,-0.085105184182578,theta/beta ratio,SVM-RBF,0
+v114,0,-0.896282263398508,theta/beta ratio,SVM-RBF,0
+v115,0,-0.8554327399158574,theta/beta ratio,SVM-RBF,0
+v116,0,-0.41533500757664576,theta/beta ratio,SVM-RBF,0
+v117,0,-0.7334825971163244,theta/beta ratio,SVM-RBF,0
+v118,0,0.21653256814635122,theta/beta ratio,SVM-RBF,0
+v120,0,-0.3942790112051882,theta/beta ratio,SVM-RBF,0
+v121,0,-0.7460833208167137,theta/beta ratio,SVM-RBF,0
+v123,0,-0.7054305059959489,theta/beta ratio,SVM-RBF,0
+v125,0,-0.8709922822742361,theta/beta ratio,SVM-RBF,0
+v127,0,-0.05885330195513953,theta/beta ratio,SVM-RBF,0
+v129,0,-0.4904974065442928,theta/beta ratio,SVM-RBF,0
+v12p,1,-0.09181113387857398,theta/beta ratio,SVM-RBF,0
+v131,0,-0.5546100935779341,theta/beta ratio,SVM-RBF,0
+v133,0,-0.785477182660268,theta/beta ratio,SVM-RBF,0
+v134,0,-0.4218317180509565,theta/beta ratio,SVM-RBF,0
+v138,0,-0.19605541308361454,theta/beta ratio,SVM-RBF,0
+v140,0,-0.6274955035678124,theta/beta ratio,SVM-RBF,0
+v143,0,-0.19951065412266425,theta/beta ratio,SVM-RBF,0
+v147,0,-0.8233933049098336,theta/beta ratio,SVM-RBF,0
+v149,0,0.15983172918061683,theta/beta ratio,SVM-RBF,0
+v14p,1,-0.06873241009021272,theta/beta ratio,SVM-RBF,0
+v151,0,-0.5855414999657823,theta/beta ratio,SVM-RBF,0
+v15p,1,-0.12946628479863717,theta/beta ratio,SVM-RBF,0
+v173,1,0.201329868056673,theta/beta ratio,SVM-RBF,0
+v177,1,0.09156709554024234,theta/beta ratio,SVM-RBF,0
+v179,1,0.9727404050050044,theta/beta ratio,SVM-RBF,0
+v181,1,0.013972639337712157,theta/beta ratio,SVM-RBF,0
+v183,1,0.1409592943432884,theta/beta ratio,SVM-RBF,0
+v18p,1,0.4539408419239143,theta/beta ratio,SVM-RBF,0
+v190,1,0.249688415519823,theta/beta ratio,SVM-RBF,0
+v196,1,0.3574810745321628,theta/beta ratio,SVM-RBF,0
+v198,1,0.28192098445333147,theta/beta ratio,SVM-RBF,0
+v19p,1,-0.5515711512824837,theta/beta ratio,SVM-RBF,0
+v1p,1,-0.01631598839872662,theta/beta ratio,SVM-RBF,0
+v200,1,0.23767064108418387,theta/beta ratio,SVM-RBF,0
+v204,1,-0.5030831755307562,theta/beta ratio,SVM-RBF,0
+v206,1,0.007275968988803458,theta/beta ratio,SVM-RBF,0
+v209,1,0.4019058759107132,theta/beta ratio,SVM-RBF,0
+v20p,1,0.4287969998546957,theta/beta ratio,SVM-RBF,0
+v213,1,1.0846700138385081,theta/beta ratio,SVM-RBF,0
+v215,1,0.40038926667455427,theta/beta ratio,SVM-RBF,0
+v219,1,-0.08268399088456431,theta/beta ratio,SVM-RBF,0
+v21p,1,0.11383816201631938,theta/beta ratio,SVM-RBF,0
+v227,1,-0.6629039296276152,theta/beta ratio,SVM-RBF,0
+v22p,1,0.1061317515698959,theta/beta ratio,SVM-RBF,0
+v231,1,0.16855598040475842,theta/beta ratio,SVM-RBF,0
+v234,1,0.036463308627927266,theta/beta ratio,SVM-RBF,0
+v236,1,0.017138043454470918,theta/beta ratio,SVM-RBF,0
+v238,1,0.20709509347200453,theta/beta ratio,SVM-RBF,0
+v244,1,0.1476096334740953,theta/beta ratio,SVM-RBF,0
+v246,1,-0.044403702707330926,theta/beta ratio,SVM-RBF,0
+v24p,1,0.47335228176430993,theta/beta ratio,SVM-RBF,0
+v250,1,0.2976120725946509,theta/beta ratio,SVM-RBF,0
+v254,1,0.3608324253610554,theta/beta ratio,SVM-RBF,0
+v25p,1,0.163707799026041,theta/beta ratio,SVM-RBF,0
+v263,1,0.00029972355388892876,theta/beta ratio,SVM-RBF,0
+v265,1,0.2651236937424674,theta/beta ratio,SVM-RBF,0
+v270,1,0.5833348712969763,theta/beta ratio,SVM-RBF,0
+v274,1,0.9454017674539573,theta/beta ratio,SVM-RBF,0
+v279,1,0.1967711928412026,theta/beta ratio,SVM-RBF,0
+v27p,1,-0.5492932390470194,theta/beta ratio,SVM-RBF,0
+v284,1,0.06400243016575105,theta/beta ratio,SVM-RBF,0
+v286,1,0.6836846980913563,theta/beta ratio,SVM-RBF,0
+v288,1,0.5118035743978857,theta/beta ratio,SVM-RBF,0
+v28p,1,0.3019264171630653,theta/beta ratio,SVM-RBF,0
+v297,0,0.3190533963547296,theta/beta ratio,SVM-RBF,0
+v298,0,-0.017767909843467263,theta/beta ratio,SVM-RBF,0
+v299,0,-0.1788726454587496,theta/beta ratio,SVM-RBF,0
+v29p,1,-0.06823041485618014,theta/beta ratio,SVM-RBF,0
+v300,0,-0.634086483353583,theta/beta ratio,SVM-RBF,0
+v302,0,0.15532374768769275,theta/beta ratio,SVM-RBF,0
+v303,0,0.3955612369002721,theta/beta ratio,SVM-RBF,0
+v304,0,-0.44924058812673573,theta/beta ratio,SVM-RBF,0
+v305,0,-0.47298000703406484,theta/beta ratio,SVM-RBF,0
+v306,0,-0.013484463031753147,theta/beta ratio,SVM-RBF,0
+v307,0,0.3072340926594703,theta/beta ratio,SVM-RBF,0
+v308,0,-0.16373549766368678,theta/beta ratio,SVM-RBF,0
+v309,0,-0.3535848195605171,theta/beta ratio,SVM-RBF,0
+v30p,1,0.2653130507818369,theta/beta ratio,SVM-RBF,0
+v310,0,0.34493713480329125,theta/beta ratio,SVM-RBF,0
+v31p,1,0.5441893447402134,theta/beta ratio,SVM-RBF,0
+v32p,1,1.0636075727096999,theta/beta ratio,SVM-RBF,0
+v33p,1,-0.07744441893445347,theta/beta ratio,SVM-RBF,0
+v34p,1,0.527944148461609,theta/beta ratio,SVM-RBF,0
+v35p,1,-0.22690339022998912,theta/beta ratio,SVM-RBF,0
+v36p,1,0.4102830683036844,theta/beta ratio,SVM-RBF,0
+v37p,1,0.5813453683208144,theta/beta ratio,SVM-RBF,0
+v38p,1,0.6478116526479666,theta/beta ratio,SVM-RBF,0
+v39p,1,0.5550292125784523,theta/beta ratio,SVM-RBF,0
+v3p,1,0.28295690296772313,theta/beta ratio,SVM-RBF,0
+v40p,1,0.37237064140519577,theta/beta ratio,SVM-RBF,0
+v41p,0,0.5484257565695285,theta/beta ratio,SVM-RBF,0
+v42p,0,-0.2060946177451993,theta/beta ratio,SVM-RBF,0
+v43p,0,-0.8047943093559544,theta/beta ratio,SVM-RBF,0
+v44p,0,0.5750337240408053,theta/beta ratio,SVM-RBF,0
+v45p,0,0.1879440119347774,theta/beta ratio,SVM-RBF,0
+v46p,0,0.027637181422467627,theta/beta ratio,SVM-RBF,0
+v47p,0,0.45050417727967357,theta/beta ratio,SVM-RBF,0
+v48p,0,-0.04814887253826651,theta/beta ratio,SVM-RBF,0
+v49p,0,0.23104912671953529,theta/beta ratio,SVM-RBF,0
+v50p,0,1.0399929034834774,theta/beta ratio,SVM-RBF,0
+v51p,0,0.8039010237984648,theta/beta ratio,SVM-RBF,0
+v52p,0,0.4218725830989862,theta/beta ratio,SVM-RBF,0
+v53p,0,-0.10563519454618552,theta/beta ratio,SVM-RBF,0
+v54p,0,0.678148597113941,theta/beta ratio,SVM-RBF,0
+v55p,0,0.2607097396008485,theta/beta ratio,SVM-RBF,0
+v56p,0,0.03765853807243494,theta/beta ratio,SVM-RBF,0
+v57p,0,0.5667085470734943,theta/beta ratio,SVM-RBF,0
+v58p,0,0.39955384219496926,theta/beta ratio,SVM-RBF,0
+v59p,0,0.26462076673309143,theta/beta ratio,SVM-RBF,0
+v60p,0,0.20241895179381167,theta/beta ratio,SVM-RBF,0
+v6p,1,0.7111467442323944,theta/beta ratio,SVM-RBF,0
+v8p,1,0.511087442591127,theta/beta ratio,SVM-RBF,0
+v107,0,0.47624397923293205,theta/beta ratio,KNN,0
+v108,0,0.40046481947906004,theta/beta ratio,KNN,0
+v109,0,0.7076113483770546,theta/beta ratio,KNN,0
+v10p,1,0.6607439049956563,theta/beta ratio,KNN,0
+v110,0,0.6576664298507914,theta/beta ratio,KNN,0
+v111,0,0.6144745659069263,theta/beta ratio,KNN,0
+v112,0,0.5887930102503915,theta/beta ratio,KNN,0
+v113,0,0.5860757461074891,theta/beta ratio,KNN,0
+v114,0,0.5881992038821936,theta/beta ratio,KNN,0
+v115,0,0.6126131971407277,theta/beta ratio,KNN,0
+v116,0,0.5592433671509391,theta/beta ratio,KNN,0
+v117,0,0.5470467067993473,theta/beta ratio,KNN,0
+v118,0,0.5362859010018705,theta/beta ratio,KNN,0
+v120,0,0.4928135945666215,theta/beta ratio,KNN,0
+v121,0,0.5330998312921993,theta/beta ratio,KNN,0
+v123,0,0.6172872367488571,theta/beta ratio,KNN,0
+v125,0,0.561272113697251,theta/beta ratio,KNN,0
+v127,0,0.6668339899760558,theta/beta ratio,KNN,0
+v129,0,0.6001516242284093,theta/beta ratio,KNN,0
+v12p,1,0.5756074293727236,theta/beta ratio,KNN,0
+v131,0,0.5705734987204893,theta/beta ratio,KNN,0
+v133,0,0.627675902862518,theta/beta ratio,KNN,0
+v134,0,0.45127054245325215,theta/beta ratio,KNN,0
+v138,0,0.5503425397173358,theta/beta ratio,KNN,0
+v140,0,0.43108415932303057,theta/beta ratio,KNN,0
+v143,0,0.6739092291184059,theta/beta ratio,KNN,0
+v147,0,0.5196738978877224,theta/beta ratio,KNN,0
+v149,0,0.6280136824187386,theta/beta ratio,KNN,0
+v14p,1,0.5458296976183924,theta/beta ratio,KNN,0
+v151,0,0.5500059039741729,theta/beta ratio,KNN,0
+v15p,1,0.5870031893807447,theta/beta ratio,KNN,0
+v173,1,0.5358213372210022,theta/beta ratio,KNN,0
+v177,1,0.5787296086840469,theta/beta ratio,KNN,0
+v179,1,0.7237363180262054,theta/beta ratio,KNN,0
+v181,1,0.6147394542575068,theta/beta ratio,KNN,0
+v183,1,0.6302607025193524,theta/beta ratio,KNN,0
+v18p,1,0.6012817987998481,theta/beta ratio,KNN,0
+v190,1,0.5915648653483726,theta/beta ratio,KNN,0
+v196,1,0.6491351073679988,theta/beta ratio,KNN,0
+v198,1,0.6216844556894688,theta/beta ratio,KNN,0
+v19p,1,0.5391039108343788,theta/beta ratio,KNN,0
+v1p,1,0.5824779784311594,theta/beta ratio,KNN,0
+v200,1,0.597045944464179,theta/beta ratio,KNN,0
+v204,1,0.5737254722190559,theta/beta ratio,KNN,0
+v206,1,0.612331472250553,theta/beta ratio,KNN,0
+v209,1,0.647250176523621,theta/beta ratio,KNN,0
+v20p,1,0.6458642267686834,theta/beta ratio,KNN,0
+v213,1,0.739634911720611,theta/beta ratio,KNN,0
+v215,1,0.6458605958098568,theta/beta ratio,KNN,0
+v219,1,0.4657515719839713,theta/beta ratio,KNN,0
+v21p,1,0.6117552160421936,theta/beta ratio,KNN,0
+v227,1,0.570210917491574,theta/beta ratio,KNN,0
+v22p,1,0.5322601727366169,theta/beta ratio,KNN,0
+v231,1,0.6274677250323422,theta/beta ratio,KNN,0
+v234,1,0.6345434074982234,theta/beta ratio,KNN,0
+v236,1,0.6055385020772293,theta/beta ratio,KNN,0
+v238,1,0.6469323937145262,theta/beta ratio,KNN,0
+v244,1,0.5729931889567799,theta/beta ratio,KNN,0
+v246,1,0.6487859332624492,theta/beta ratio,KNN,0
+v24p,1,0.6614686275353456,theta/beta ratio,KNN,0
+v250,1,0.6712661936805032,theta/beta ratio,KNN,0
+v254,1,0.7108649666898789,theta/beta ratio,KNN,0
+v25p,1,0.6001936327554867,theta/beta ratio,KNN,0
+v263,1,0.6328057553772135,theta/beta ratio,KNN,0
+v265,1,0.6842084649520357,theta/beta ratio,KNN,0
+v270,1,0.6284615551056304,theta/beta ratio,KNN,0
+v274,1,0.7312060565231787,theta/beta ratio,KNN,0
+v279,1,0.6241151165921813,theta/beta ratio,KNN,0
+v27p,1,0.532115707222185,theta/beta ratio,KNN,0
+v284,1,0.6467767774663837,theta/beta ratio,KNN,0
+v286,1,0.7971739318668007,theta/beta ratio,KNN,0
+v288,1,0.6553811493693014,theta/beta ratio,KNN,0
+v28p,1,0.6287122241807946,theta/beta ratio,KNN,0
+v297,0,0.6299711164256696,theta/beta ratio,KNN,0
+v298,0,0.5800016531380338,theta/beta ratio,KNN,0
+v299,0,0.5874173881343432,theta/beta ratio,KNN,0
+v29p,1,0.6233438120078983,theta/beta ratio,KNN,0
+v300,0,0.60729245644265,theta/beta ratio,KNN,0
+v302,0,0.7153108002964412,theta/beta ratio,KNN,0
+v303,0,0.7144879404900993,theta/beta ratio,KNN,0
+v304,0,0.5793238825376809,theta/beta ratio,KNN,0
+v305,0,0.5752414664415056,theta/beta ratio,KNN,0
+v306,0,0.6028904006474839,theta/beta ratio,KNN,0
+v307,0,0.6221527290319774,theta/beta ratio,KNN,0
+v308,0,0.5930050520979542,theta/beta ratio,KNN,0
+v309,0,0.5637827832932402,theta/beta ratio,KNN,0
+v30p,1,0.6332684122332396,theta/beta ratio,KNN,0
+v310,0,0.660629628143608,theta/beta ratio,KNN,0
+v31p,1,0.6655290217608545,theta/beta ratio,KNN,0
+v32p,1,0.7115968844570573,theta/beta ratio,KNN,0
+v33p,1,0.6020894868268181,theta/beta ratio,KNN,0
+v34p,1,0.5650719579687585,theta/beta ratio,KNN,0
+v35p,1,0.550714561859716,theta/beta ratio,KNN,0
+v36p,1,0.6352349028018512,theta/beta ratio,KNN,0
+v37p,1,0.7622835967116823,theta/beta ratio,KNN,0
+v38p,1,0.665931087719687,theta/beta ratio,KNN,0
+v39p,1,0.6812527104386057,theta/beta ratio,KNN,0
+v3p,1,0.6728225691467115,theta/beta ratio,KNN,0
+v40p,1,0.6711858618015011,theta/beta ratio,KNN,0
+v41p,0,0.7005553050512677,theta/beta ratio,KNN,0
+v42p,0,0.6338738638693853,theta/beta ratio,KNN,0
+v43p,0,0.5008516781422833,theta/beta ratio,KNN,0
+v44p,0,0.6470752881534184,theta/beta ratio,KNN,0
+v45p,0,0.6978044221824935,theta/beta ratio,KNN,0
+v46p,0,0.6170706927972984,theta/beta ratio,KNN,0
+v47p,0,0.6994864223638917,theta/beta ratio,KNN,0
+v48p,0,0.6805226337994099,theta/beta ratio,KNN,0
+v49p,0,0.6622348426456472,theta/beta ratio,KNN,0
+v50p,0,0.7705056538602967,theta/beta ratio,KNN,0
+v51p,0,0.792207965084637,theta/beta ratio,KNN,0
+v52p,0,0.7020341763650424,theta/beta ratio,KNN,0
+v53p,0,0.5896804960901242,theta/beta ratio,KNN,0
+v54p,0,0.5991846886293793,theta/beta ratio,KNN,0
+v55p,0,0.6866764611337511,theta/beta ratio,KNN,0
+v56p,0,0.6691297938718224,theta/beta ratio,KNN,0
+v57p,0,0.7372954194662149,theta/beta ratio,KNN,0
+v58p,0,0.6773827313232744,theta/beta ratio,KNN,0
+v59p,0,0.678504961239111,theta/beta ratio,KNN,0
+v60p,0,0.6173621708432301,theta/beta ratio,KNN,0
+v6p,1,0.691606153940434,theta/beta ratio,KNN,0
+v8p,1,0.6475324888430788,theta/beta ratio,KNN,0
+v107,0,0.39420557006087825,alpha power,RandomForest,0
+v108,0,0.30125217112291586,alpha power,RandomForest,0
+v109,0,0.5268122285771659,alpha power,RandomForest,0
+v10p,1,0.5315433260347805,alpha power,RandomForest,0
+v110,0,0.18370439161689187,alpha power,RandomForest,0
+v111,0,0.54408161240526,alpha power,RandomForest,0
+v112,0,0.213621891454073,alpha power,RandomForest,0
+v113,0,0.34413651433268494,alpha power,RandomForest,0
+v114,0,0.28743003993114824,alpha power,RandomForest,0
+v115,0,0.24044224735264358,alpha power,RandomForest,0
+v116,0,0.3690482668828749,alpha power,RandomForest,0
+v117,0,0.23798432011541046,alpha power,RandomForest,0
+v118,0,0.4316613966222679,alpha power,RandomForest,0
+v120,0,0.48262221355658436,alpha power,RandomForest,0
+v121,0,0.37955885362403846,alpha power,RandomForest,0
+v123,0,0.34417646071919883,alpha power,RandomForest,0
+v125,0,0.24885155929368233,alpha power,RandomForest,0
+v127,0,0.27947792953392137,alpha power,RandomForest,0
+v129,0,0.34702799452445837,alpha power,RandomForest,0
+v12p,1,0.5783391885713914,alpha power,RandomForest,0
+v131,0,0.3492775531542289,alpha power,RandomForest,0
+v133,0,0.3595170659546167,alpha power,RandomForest,0
+v134,0,0.5047538640539807,alpha power,RandomForest,0
+v138,0,0.34720594386200837,alpha power,RandomForest,0
+v140,0,0.6033089872351807,alpha power,RandomForest,0
+v143,0,0.5723444333631332,alpha power,RandomForest,0
+v147,0,0.496237457691663,alpha power,RandomForest,0
+v149,0,0.6170324834876962,alpha power,RandomForest,0
+v14p,1,0.5811105267423724,alpha power,RandomForest,0
+v151,0,0.3140603569915282,alpha power,RandomForest,0
+v15p,1,0.4731100550019953,alpha power,RandomForest,0
+v173,1,0.5277317951715376,alpha power,RandomForest,0
+v177,1,0.488604313233876,alpha power,RandomForest,0
+v179,1,0.6510549228472562,alpha power,RandomForest,0
+v181,1,0.6658316904298854,alpha power,RandomForest,0
+v183,1,0.6031002389832798,alpha power,RandomForest,0
+v18p,1,0.5649571384223262,alpha power,RandomForest,0
+v190,1,0.5015802456890198,alpha power,RandomForest,0
+v196,1,0.625117871767948,alpha power,RandomForest,0
+v198,1,0.5452542212457278,alpha power,RandomForest,0
+v19p,1,0.5090126593809158,alpha power,RandomForest,0
+v1p,1,0.5700689481845309,alpha power,RandomForest,0
+v200,1,0.5183627349386336,alpha power,RandomForest,0
+v204,1,0.5382518191232945,alpha power,RandomForest,0
+v206,1,0.5466817817109487,alpha power,RandomForest,0
+v209,1,0.5784151643171354,alpha power,RandomForest,0
+v20p,1,0.5258952830425744,alpha power,RandomForest,0
+v213,1,0.7250293421328927,alpha power,RandomForest,0
+v215,1,0.5674989856601278,alpha power,RandomForest,0
+v219,1,0.5843042602663824,alpha power,RandomForest,0
+v21p,1,0.6722768900420311,alpha power,RandomForest,0
+v227,1,0.5207704439867299,alpha power,RandomForest,0
+v22p,1,0.45005277732896787,alpha power,RandomForest,0
+v231,1,0.5108498595007019,alpha power,RandomForest,0
+v234,1,0.7674706257556904,alpha power,RandomForest,0
+v236,1,0.7560494996788292,alpha power,RandomForest,0
+v238,1,0.5017014348293284,alpha power,RandomForest,0
+v244,1,0.5609869866024865,alpha power,RandomForest,0
+v246,1,0.4474366452680948,alpha power,RandomForest,0
+v24p,1,0.5352819251529798,alpha power,RandomForest,0
+v250,1,0.669959112637781,alpha power,RandomForest,0
+v254,1,0.6372366760832806,alpha power,RandomForest,0
+v25p,1,0.47875343874359294,alpha power,RandomForest,0
+v263,1,0.6190801745840315,alpha power,RandomForest,0
+v265,1,0.7727883419613762,alpha power,RandomForest,0
+v270,1,0.6383292279615796,alpha power,RandomForest,0
+v274,1,0.5659109892763007,alpha power,RandomForest,0
+v279,1,0.573287247331873,alpha power,RandomForest,0
+v27p,1,0.29355925046884745,alpha power,RandomForest,0
+v284,1,0.3722242239401601,alpha power,RandomForest,0
+v286,1,0.6038550399941264,alpha power,RandomForest,0
+v288,1,0.5669817879530905,alpha power,RandomForest,0
+v28p,1,0.5718281787858402,alpha power,RandomForest,0
+v297,0,0.5664567327431803,alpha power,RandomForest,0
+v298,0,0.5443897198735514,alpha power,RandomForest,0
+v299,0,0.5971174738089103,alpha power,RandomForest,0
+v29p,1,0.5495054007962529,alpha power,RandomForest,0
+v300,0,0.5486004661779061,alpha power,RandomForest,0
+v302,0,0.6277243071946499,alpha power,RandomForest,0
+v303,0,0.5467890454532041,alpha power,RandomForest,0
+v304,0,0.5421376358431419,alpha power,RandomForest,0
+v305,0,0.5779983396509906,alpha power,RandomForest,0
+v306,0,0.6179222442500771,alpha power,RandomForest,0
+v307,0,0.6061291239009737,alpha power,RandomForest,0
+v308,0,0.5079105871991535,alpha power,RandomForest,0
+v309,0,0.576078662918445,alpha power,RandomForest,0
+v30p,1,0.4860991012879557,alpha power,RandomForest,0
+v310,0,0.5246142777668836,alpha power,RandomForest,0
+v31p,1,0.4912975911749492,alpha power,RandomForest,0
+v32p,1,0.6209372921013262,alpha power,RandomForest,0
+v33p,1,0.5562969184831866,alpha power,RandomForest,0
+v34p,1,0.7070753413374867,alpha power,RandomForest,0
+v35p,1,0.5367868589152114,alpha power,RandomForest,0
+v36p,1,0.5523476372539672,alpha power,RandomForest,0
+v37p,1,0.6670858550006256,alpha power,RandomForest,0
+v38p,1,0.6321203526570495,alpha power,RandomForest,0
+v39p,1,0.513129459492358,alpha power,RandomForest,0
+v3p,1,0.5335887231250155,alpha power,RandomForest,0
+v40p,1,0.6543298852182394,alpha power,RandomForest,0
+v41p,0,0.5840096539520027,alpha power,RandomForest,0
+v42p,0,0.6284166485081085,alpha power,RandomForest,0
+v43p,0,0.6314151823888516,alpha power,RandomForest,0
+v44p,0,0.660622377600694,alpha power,RandomForest,0
+v45p,0,0.5011240652580935,alpha power,RandomForest,0
+v46p,0,0.5359059402873039,alpha power,RandomForest,0
+v47p,0,0.5852144242115378,alpha power,RandomForest,0
+v48p,0,0.6005178120198978,alpha power,RandomForest,0
+v49p,0,0.7102389511825534,alpha power,RandomForest,0
+v50p,0,0.5484861486281184,alpha power,RandomForest,0
+v51p,0,0.6077707993240072,alpha power,RandomForest,0
+v52p,0,0.6746298810027598,alpha power,RandomForest,0
+v53p,0,0.4533692962876335,alpha power,RandomForest,0
+v54p,0,0.6115863763383504,alpha power,RandomForest,0
+v55p,0,0.675197401432276,alpha power,RandomForest,0
+v56p,0,0.537795922046273,alpha power,RandomForest,0
+v57p,0,0.7337685259920462,alpha power,RandomForest,0
+v58p,0,0.5954991195379731,alpha power,RandomForest,0
+v59p,0,0.5553709972879382,alpha power,RandomForest,0
+v60p,0,0.6106833996432321,alpha power,RandomForest,0
+v6p,1,0.5721826941923154,alpha power,RandomForest,0
+v8p,1,0.6123721443289705,alpha power,RandomForest,0
+v107,0,-0.833079758176398,alpha power,SVM-RBF,0
+v108,0,-1.8194182695570786,alpha power,SVM-RBF,0
+v109,0,-1.695146217840173,alpha power,SVM-RBF,0
+v10p,1,0.19988975321708555,alpha power,SVM-RBF,0
+v110,0,-2.2515897123093946,alpha power,SVM-RBF,0
+v111,0,-0.6865734345409803,alpha power,SVM-RBF,0
+v112,0,-1.7491432648238492,alpha power,SVM-RBF,0
+v113,0,-1.2822943682022903,alpha power,SVM-RBF,0
+v114,0,-1.2662178782293565,alpha power,SVM-RBF,0
+v115,0,-2.126017997331703,alpha power,SVM-RBF,0
+v116,0,-0.4979144766389529,alpha power,SVM-RBF,0
+v117,0,-1.9224787052233792,alpha power,SVM-RBF,0
+v118,0,-0.4906598349390187,alpha power,SVM-RBF,0
+v120,0,-0.18234342072572512,alpha power,SVM-RBF,0
+v121,0,-1.2496931186256104,alpha power,SVM-RBF,0
+v123,0,-1.1970982301071147,alpha power,SVM-RBF,0
+v125,0,-1.6796468955187647,alpha power,SVM-RBF,0
+v127,0,-1.7233495091139899,alpha power,SVM-RBF,0
+v129,0,-0.9340000307154106,alpha power,SVM-RBF,0
+v12p,1,-0.10977713409482409,alpha power,SVM-RBF,0
+v131,0,-1.0155234080978086,alpha power,SVM-RBF,0
+v133,0,-1.024332492503284,alpha power,SVM-RBF,0
+v134,0,-0.7998973820623987,alpha power,SVM-RBF,0
+v138,0,-0.7586712035040608,alpha power,SVM-RBF,0
+v140,0,0.15862630190638213,alpha power,SVM-RBF,0
+v143,0,-0.2550637284743956,alpha power,SVM-RBF,0
+v147,0,-0.2749095619313945,alpha power,SVM-RBF,0
+v149,0,0.5347131525159067,alpha power,SVM-RBF,0
+v14p,1,0.22220306349757699,alpha power,SVM-RBF,0
+v151,0,-1.3137887023880273,alpha power,SVM-RBF,0
+v15p,1,0.29258591934807504,alpha power,SVM-RBF,0
+v173,1,0.051801825717797255,alpha power,SVM-RBF,0
+v177,1,0.08226369614016148,alpha power,SVM-RBF,0
+v179,1,0.4109235447068182,alpha power,SVM-RBF,0
+v181,1,1.005930083252227,alpha power,SVM-RBF,0
+v183,1,0.4440212359379099,alpha power,SVM-RBF,0
+v18p,1,0.4420414359230737,alpha power,SVM-RBF,0
+v190,1,0.12021296794517937,alpha power,SVM-RBF,0
+v196,1,0.39991241745454925,alpha power,SVM-RBF,0
+v198,1,0.3284099145986353,alpha power,SVM-RBF,0
+v19p,1,0.08114416875202644,alpha power,SVM-RBF,0
+v1p,1,0.40769415764569483,alpha power,SVM-RBF,0
+v200,1,0.10759306853365204,alpha power,SVM-RBF,0
+v204,1,-0.5823192502924539,alpha power,SVM-RBF,0
+v206,1,-0.43872941435458895,alpha power,SVM-RBF,0
+v209,1,0.3118776418225926,alpha power,SVM-RBF,0
+v20p,1,0.2558597139087919,alpha power,SVM-RBF,0
+v213,1,1.2039275855577087,alpha power,SVM-RBF,0
+v215,1,0.3893147086716332,alpha power,SVM-RBF,0
+v219,1,0.5184379966467862,alpha power,SVM-RBF,0
+v21p,1,0.7234261135488653,alpha power,SVM-RBF,0
+v227,1,-0.17115624197073012,alpha power,SVM-RBF,0
+v22p,1,0.14048099149830237,alpha power,SVM-RBF,0
+v231,1,-0.09476554374715937,alpha power,SVM-RBF,0
+v234,1,0.9659750814360147,alpha power,SVM-RBF,0
+v236,1,1.274402728622009,alpha power,SVM-RBF,0
+v238,1,0.3732822691520894,alpha power,SVM-RBF,0
+v244,1,0.39290558684908516,alpha power,SVM-RBF,0
+v246,1,-0.3539910770493657,alpha power,SVM-RBF,0
+v24p,1,0.011160769853248594,alpha power,SVM-RBF,0
+v250,1,0.7100499662976154,alpha power,SVM-RBF,0
+v254,1,0.5195525055024653,alpha power,SVM-RBF,0
+v25p,1,-0.1339029335122454,alpha power,SVM-RBF,0
+v263,1,0.6792673916108117,alpha power,SVM-RBF,0
+v265,1,1.3617518954186503,alpha power,SVM-RBF,0
+v270,1,0.9245737565652076,alpha power,SVM-RBF,0
+v274,1,0.516291490656738,alpha power,SVM-RBF,0
+v279,1,-0.0012507063134764374,alpha power,SVM-RBF,0
+v27p,1,-0.6632205065941834,alpha power,SVM-RBF,0
+v284,1,-0.7116535024719719,alpha power,SVM-RBF,0
+v286,1,0.3209846331851752,alpha power,SVM-RBF,0
+v288,1,0.6060568491122691,alpha power,SVM-RBF,0
+v28p,1,0.5357268886381117,alpha power,SVM-RBF,0
+v297,0,0.19046091555656583,alpha power,SVM-RBF,0
+v298,0,0.04973625774339552,alpha power,SVM-RBF,0
+v299,0,0.20917522046658454,alpha power,SVM-RBF,0
+v29p,1,-0.06379506671918829,alpha power,SVM-RBF,0
+v300,0,-0.2580607257913753,alpha power,SVM-RBF,0
+v302,0,0.3061351141872236,alpha power,SVM-RBF,0
+v303,0,-0.4466125612801182,alpha power,SVM-RBF,0
+v304,0,-0.38529536897644184,alpha power,SVM-RBF,0
+v305,0,0.6214691984561285,alpha power,SVM-RBF,0
+v306,0,1.1509554529685964,alpha power,SVM-RBF,0
+v307,0,0.5292887798480049,alpha power,SVM-RBF,0
+v308,0,-0.47576964310045056,alpha power,SVM-RBF,0
+v309,0,0.30112626774186424,alpha power,SVM-RBF,0
+v30p,1,-0.13042382978998632,alpha power,SVM-RBF,0
+v310,0,-0.0896154383432394,alpha power,SVM-RBF,0
+v31p,1,0.004808289158546966,alpha power,SVM-RBF,0
+v32p,1,0.4612883887571266,alpha power,SVM-RBF,0
+v33p,1,-0.09188583760186846,alpha power,SVM-RBF,0
+v34p,1,1.0304022439971,alpha power,SVM-RBF,0
+v35p,1,0.18408683750459426,alpha power,SVM-RBF,0
+v36p,1,0.6418291526675226,alpha power,SVM-RBF,0
+v37p,1,0.8033828558658267,alpha power,SVM-RBF,0
+v38p,1,1.2661507081199619,alpha power,SVM-RBF,0
+v39p,1,0.2957507971344248,alpha power,SVM-RBF,0
+v3p,1,0.40437364041923896,alpha power,SVM-RBF,0
+v40p,1,0.8029082936692387,alpha power,SVM-RBF,0
+v41p,0,0.04569592119645018,alpha power,SVM-RBF,0
+v42p,0,0.33081169029087754,alpha power,SVM-RBF,0
+v43p,0,1.1587646347862295,alpha power,SVM-RBF,0
+v44p,0,0.7945731189162497,alpha power,SVM-RBF,0
+v45p,0,-0.28704668432217323,alpha power,SVM-RBF,0
+v46p,0,-0.1698045111986961,alpha power,SVM-RBF,0
+v47p,0,-0.17829534587451973,alpha power,SVM-RBF,0
+v48p,0,-0.044423779478623665,alpha power,SVM-RBF,0
+v49p,0,0.6803779586784466,alpha power,SVM-RBF,0
+v50p,0,-0.30321490221462294,alpha power,SVM-RBF,0
+v51p,0,0.2553964414988858,alpha power,SVM-RBF,0
+v52p,0,0.9988024050198303,alpha power,SVM-RBF,0
+v53p,0,-0.554337031018212,alpha power,SVM-RBF,0
+v54p,0,0.2644485401765831,alpha power,SVM-RBF,0
+v55p,0,0.4611444619725174,alpha power,SVM-RBF,0
+v56p,0,-0.003970548055579355,alpha power,SVM-RBF,0
+v57p,0,-0.17745868412209445,alpha power,SVM-RBF,0
+v58p,0,0.09589170953972738,alpha power,SVM-RBF,0
+v59p,0,0.14090801184055934,alpha power,SVM-RBF,0
+v60p,0,0.7047044088488994,alpha power,SVM-RBF,0
+v6p,1,0.08587423801912969,alpha power,SVM-RBF,0
+v8p,1,0.5320945183592453,alpha power,SVM-RBF,0
+v107,0,0.5165739734789567,alpha power,KNN,0
+v108,0,0.30856073362762537,alpha power,KNN,0
+v109,0,0.5150116728448015,alpha power,KNN,0
+v10p,1,0.6207444518430719,alpha power,KNN,0
+v110,0,0.06665308958744479,alpha power,KNN,0
+v111,0,0.5789832614546033,alpha power,KNN,0
+v112,0,0.16924108267557336,alpha power,KNN,0
+v113,0,0.3981126537626467,alpha power,KNN,0
+v114,0,0.20132116934546596,alpha power,KNN,0
+v115,0,0.2309691498939273,alpha power,KNN,0
+v116,0,0.3656474066812341,alpha power,KNN,0
+v117,0,0.21872446682308436,alpha power,KNN,0
+v118,0,0.48543297621634546,alpha power,KNN,0
+v120,0,0.6014666309997342,alpha power,KNN,0
+v121,0,0.5128812745677833,alpha power,KNN,0
+v123,0,0.4072356336248962,alpha power,KNN,0
+v125,0,0.21237205547308471,alpha power,KNN,0
+v127,0,0.2827345031567104,alpha power,KNN,0
+v129,0,0.30899565701132325,alpha power,KNN,0
+v12p,1,0.616399388517669,alpha power,KNN,0
+v131,0,0.3825869111968561,alpha power,KNN,0
+v133,0,0.39143573187538083,alpha power,KNN,0
+v134,0,0.4955375121188062,alpha power,KNN,0
+v138,0,0.4021754291885818,alpha power,KNN,0
+v140,0,0.6817170224855522,alpha power,KNN,0
+v143,0,0.6556093124578004,alpha power,KNN,0
+v147,0,0.4892411766279033,alpha power,KNN,0
+v149,0,0.6785829954588839,alpha power,KNN,0
+v14p,1,0.6062408969005694,alpha power,KNN,0
+v151,0,0.30604470304524856,alpha power,KNN,0
+v15p,1,0.6180863524499424,alpha power,KNN,0
+v173,1,0.5799834220946566,alpha power,KNN,0
+v177,1,0.5756131304636259,alpha power,KNN,0
+v179,1,0.7326316731464417,alpha power,KNN,0
+v181,1,0.7720926331351796,alpha power,KNN,0
+v183,1,0.625374437825864,alpha power,KNN,0
+v18p,1,0.689570782001564,alpha power,KNN,0
+v190,1,0.5818067105865828,alpha power,KNN,0
+v196,1,0.6333471549274393,alpha power,KNN,0
+v198,1,0.5611949870219657,alpha power,KNN,0
+v19p,1,0.6210927988833466,alpha power,KNN,0
+v1p,1,0.6740915889335709,alpha power,KNN,0
+v200,1,0.6064435343357782,alpha power,KNN,0
+v204,1,0.5069339323092031,alpha power,KNN,0
+v206,1,0.6117373880277304,alpha power,KNN,0
+v209,1,0.6291764613901482,alpha power,KNN,0
+v20p,1,0.6153646880329465,alpha power,KNN,0
+v213,1,0.7674524364806241,alpha power,KNN,0
+v215,1,0.5689044931422244,alpha power,KNN,0
+v219,1,0.621251258087593,alpha power,KNN,0
+v21p,1,0.7395267871871395,alpha power,KNN,0
+v227,1,0.5189239820307694,alpha power,KNN,0
+v22p,1,0.3573806994827215,alpha power,KNN,0
+v231,1,0.6188371649953769,alpha power,KNN,0
+v234,1,0.8655126061921082,alpha power,KNN,0
+v236,1,0.7157332848590704,alpha power,KNN,0
+v238,1,0.6579376680897532,alpha power,KNN,0
+v244,1,0.6406759574893631,alpha power,KNN,0
+v246,1,0.501864940072946,alpha power,KNN,0
+v24p,1,0.6040742943619174,alpha power,KNN,0
+v250,1,0.7496327767926668,alpha power,KNN,0
+v254,1,0.7113216491673624,alpha power,KNN,0
+v25p,1,0.5231811628326621,alpha power,KNN,0
+v263,1,0.7059792851718749,alpha power,KNN,0
+v265,1,0.8061473916059134,alpha power,KNN,0
+v270,1,0.6871981103515176,alpha power,KNN,0
+v274,1,0.6350419058227866,alpha power,KNN,0
+v279,1,0.6324935171682989,alpha power,KNN,0
+v27p,1,0.21737320288724024,alpha power,KNN,0
+v284,1,0.33048756441404914,alpha power,KNN,0
+v286,1,0.5993879179244237,alpha power,KNN,0
+v288,1,0.6347344278915212,alpha power,KNN,0
+v28p,1,0.6319211891309169,alpha power,KNN,0
+v297,0,0.6428725375762778,alpha power,KNN,0
+v298,0,0.53040275393876,alpha power,KNN,0
+v299,0,0.6535809480617353,alpha power,KNN,0
+v29p,1,0.5401306452059135,alpha power,KNN,0
+v300,0,0.6119472438206364,alpha power,KNN,0
+v302,0,0.7158886748452677,alpha power,KNN,0
+v303,0,0.669222177222394,alpha power,KNN,0
+v304,0,0.5208760415832802,alpha power,KNN,0
+v305,0,0.6790932436601117,alpha power,KNN,0
+v306,0,0.7224574270382655,alpha power,KNN,0
+v307,0,0.6489073699995549,alpha power,KNN,0
+v308,0,0.5149640805531682,alpha power,KNN,0
+v309,0,0.624788376370517,alpha power,KNN,0
+v30p,1,0.5844408789990663,alpha power,KNN,0
+v310,0,0.5241481351503643,alpha power,KNN,0
+v31p,1,0.5591127199415244,alpha power,KNN,0
+v32p,1,0.6895442591848594,alpha power,KNN,0
+v33p,1,0.6955224640684784,alpha power,KNN,0
+v34p,1,0.7487139080586737,alpha power,KNN,0
+v35p,1,0.6173998852191803,alpha power,KNN,0
+v36p,1,0.720027761557155,alpha power,KNN,0
+v37p,1,0.7298567258019781,alpha power,KNN,0
+v38p,1,0.677582623874916,alpha power,KNN,0
+v39p,1,0.5735784931618315,alpha power,KNN,0
+v3p,1,0.6357187610526815,alpha power,KNN,0
+v40p,1,0.7056370632731633,alpha power,KNN,0
+v41p,0,0.6449421345927399,alpha power,KNN,0
+v42p,0,0.7075434427059819,alpha power,KNN,0
+v43p,0,0.7335913234429705,alpha power,KNN,0
+v44p,0,0.7396594574823445,alpha power,KNN,0
+v45p,0,0.6003923897981187,alpha power,KNN,0
+v46p,0,0.5684185016025401,alpha power,KNN,0
+v47p,0,0.6918648474411151,alpha power,KNN,0
+v48p,0,0.6619733593359599,alpha power,KNN,0
+v49p,0,0.7735932305208042,alpha power,KNN,0
+v50p,0,0.5737058696806594,alpha power,KNN,0
+v51p,0,0.6694337885062907,alpha power,KNN,0
+v52p,0,0.7649889422233035,alpha power,KNN,0
+v53p,0,0.5352585504564761,alpha power,KNN,0
+v54p,0,0.6122554125977228,alpha power,KNN,0
+v55p,0,0.6810327606247353,alpha power,KNN,0
+v56p,0,0.594027446628718,alpha power,KNN,0
+v57p,0,0.6032233621001193,alpha power,KNN,0
+v58p,0,0.6759044113447733,alpha power,KNN,0
+v59p,0,0.557588832725896,alpha power,KNN,0
+v60p,0,0.7161616684979438,alpha power,KNN,0
+v6p,1,0.6258760494715305,alpha power,KNN,0
+v8p,1,0.6866606274604502,alpha power,KNN,0
+v107,0,0.20681809890140138,slow-wave power (1-8 Hz),RandomForest,0
+v108,0,0.3204492840164308,slow-wave power (1-8 Hz),RandomForest,0
+v109,0,0.2693124510540439,slow-wave power (1-8 Hz),RandomForest,0
+v10p,1,0.5186138937718344,slow-wave power (1-8 Hz),RandomForest,0
+v110,0,0.29248658708232605,slow-wave power (1-8 Hz),RandomForest,0
+v111,0,0.29111856373879685,slow-wave power (1-8 Hz),RandomForest,0
+v112,0,0.24136074968234175,slow-wave power (1-8 Hz),RandomForest,0
+v113,0,0.3212607606567253,slow-wave power (1-8 Hz),RandomForest,0
+v114,0,0.3300604006650599,slow-wave power (1-8 Hz),RandomForest,0
+v115,0,0.18142362751510438,slow-wave power (1-8 Hz),RandomForest,0
+v116,0,0.2501415602029064,slow-wave power (1-8 Hz),RandomForest,0
+v117,0,0.35090928142488687,slow-wave power (1-8 Hz),RandomForest,0
+v118,0,0.33819056238170087,slow-wave power (1-8 Hz),RandomForest,0
+v120,0,0.29236119527741633,slow-wave power (1-8 Hz),RandomForest,0
+v121,0,0.24471170166098308,slow-wave power (1-8 Hz),RandomForest,0
+v123,0,0.29260335176380686,slow-wave power (1-8 Hz),RandomForest,0
+v125,0,0.313861198031888,slow-wave power (1-8 Hz),RandomForest,0
+v127,0,0.3223628883673355,slow-wave power (1-8 Hz),RandomForest,0
+v129,0,0.38627202401733585,slow-wave power (1-8 Hz),RandomForest,0
+v12p,1,0.5543424615551713,slow-wave power (1-8 Hz),RandomForest,0
+v131,0,0.3346552180462766,slow-wave power (1-8 Hz),RandomForest,0
+v133,0,0.3048660668414338,slow-wave power (1-8 Hz),RandomForest,0
+v134,0,0.42947935039370994,slow-wave power (1-8 Hz),RandomForest,0
+v138,0,0.44849511644988166,slow-wave power (1-8 Hz),RandomForest,0
+v140,0,0.5175399492569941,slow-wave power (1-8 Hz),RandomForest,0
+v143,0,0.5419851595624919,slow-wave power (1-8 Hz),RandomForest,0
+v147,0,0.547450408939889,slow-wave power (1-8 Hz),RandomForest,0
+v149,0,0.6634245421747982,slow-wave power (1-8 Hz),RandomForest,0
+v14p,1,0.6134339930833195,slow-wave power (1-8 Hz),RandomForest,0
+v151,0,0.49432619029852914,slow-wave power (1-8 Hz),RandomForest,0
+v15p,1,0.41699567200382326,slow-wave power (1-8 Hz),RandomForest,0
+v173,1,0.5156207376318189,slow-wave power (1-8 Hz),RandomForest,0
+v177,1,0.5082878558961189,slow-wave power (1-8 Hz),RandomForest,0
+v179,1,0.5590855123766115,slow-wave power (1-8 Hz),RandomForest,0
+v181,1,0.6268969573141764,slow-wave power (1-8 Hz),RandomForest,0
+v183,1,0.6706021700354436,slow-wave power (1-8 Hz),RandomForest,0
+v18p,1,0.47242467476192135,slow-wave power (1-8 Hz),RandomForest,0
+v190,1,0.4653957013555259,slow-wave power (1-8 Hz),RandomForest,0
+v196,1,0.6063614129772228,slow-wave power (1-8 Hz),RandomForest,0
+v198,1,0.626923075075234,slow-wave power (1-8 Hz),RandomForest,0
+v19p,1,0.4858925234882192,slow-wave power (1-8 Hz),RandomForest,0
+v1p,1,0.5457066841929339,slow-wave power (1-8 Hz),RandomForest,0
+v200,1,0.5320609871274472,slow-wave power (1-8 Hz),RandomForest,0
+v204,1,0.5703828633533053,slow-wave power (1-8 Hz),RandomForest,0
+v206,1,0.6254835385571347,slow-wave power (1-8 Hz),RandomForest,0
+v209,1,0.5412852206717107,slow-wave power (1-8 Hz),RandomForest,0
+v20p,1,0.47505491916511694,slow-wave power (1-8 Hz),RandomForest,0
+v213,1,0.6974506534631634,slow-wave power (1-8 Hz),RandomForest,0
+v215,1,0.5202881690100596,slow-wave power (1-8 Hz),RandomForest,0
+v219,1,0.5106350039954045,slow-wave power (1-8 Hz),RandomForest,0
+v21p,1,0.5788008500562876,slow-wave power (1-8 Hz),RandomForest,0
+v227,1,0.4353954720437833,slow-wave power (1-8 Hz),RandomForest,0
+v22p,1,0.5015071547062948,slow-wave power (1-8 Hz),RandomForest,0
+v231,1,0.5545275881733269,slow-wave power (1-8 Hz),RandomForest,0
+v234,1,0.7089502385108261,slow-wave power (1-8 Hz),RandomForest,0
+v236,1,0.5976021464440259,slow-wave power (1-8 Hz),RandomForest,0
+v238,1,0.5208346737202023,slow-wave power (1-8 Hz),RandomForest,0
+v244,1,0.47854146525221036,slow-wave power (1-8 Hz),RandomForest,0
+v246,1,0.6620658647442851,slow-wave power (1-8 Hz),RandomForest,0
+v24p,1,0.5017996255488428,slow-wave power (1-8 Hz),RandomForest,0
+v250,1,0.64516787316921,slow-wave power (1-8 Hz),RandomForest,0
+v254,1,0.6016232237434695,slow-wave power (1-8 Hz),RandomForest,0
+v25p,1,0.6167230078964274,slow-wave power (1-8 Hz),RandomForest,0
+v263,1,0.53923060842994,slow-wave power (1-8 Hz),RandomForest,0
+v265,1,0.6970448344028032,slow-wave power (1-8 Hz),RandomForest,0
+v270,1,0.5750438125668429,slow-wave power (1-8 Hz),RandomForest,0
+v274,1,0.49999577837638065,slow-wave power (1-8 Hz),RandomForest,0
+v279,1,0.5434175540177946,slow-wave power (1-8 Hz),RandomForest,0
+v27p,1,0.3961380796880736,slow-wave power (1-8 Hz),RandomForest,0
+v284,1,0.6378255357538606,slow-wave power (1-8 Hz),RandomForest,0
+v286,1,0.5919455062561242,slow-wave power (1-8 Hz),RandomForest,0
+v288,1,0.5391894201939452,slow-wave power (1-8 Hz),RandomForest,0
+v28p,1,0.523608870418417,slow-wave power (1-8 Hz),RandomForest,0
+v297,0,0.4767768014227375,slow-wave power (1-8 Hz),RandomForest,0
+v298,0,0.5113491198637375,slow-wave power (1-8 Hz),RandomForest,0
+v299,0,0.6142097113572113,slow-wave power (1-8 Hz),RandomForest,0
+v29p,1,0.5792969002802109,slow-wave power (1-8 Hz),RandomForest,0
+v300,0,0.4691022707282705,slow-wave power (1-8 Hz),RandomForest,0
+v302,0,0.45234531736134925,slow-wave power (1-8 Hz),RandomForest,0
+v303,0,0.5043753751895566,slow-wave power (1-8 Hz),RandomForest,0
+v304,0,0.5421856772329217,slow-wave power (1-8 Hz),RandomForest,0
+v305,0,0.5940421468481792,slow-wave power (1-8 Hz),RandomForest,0
+v306,0,0.5206550029306387,slow-wave power (1-8 Hz),RandomForest,0
+v307,0,0.44400997120175556,slow-wave power (1-8 Hz),RandomForest,0
+v308,0,0.4620224255753172,slow-wave power (1-8 Hz),RandomForest,0
+v309,0,0.5230152022825026,slow-wave power (1-8 Hz),RandomForest,0
+v30p,1,0.5883382557276041,slow-wave power (1-8 Hz),RandomForest,0
+v310,0,0.5091664198862356,slow-wave power (1-8 Hz),RandomForest,0
+v31p,1,0.5383059278528534,slow-wave power (1-8 Hz),RandomForest,0
+v32p,1,0.6415024364754142,slow-wave power (1-8 Hz),RandomForest,0
+v33p,1,0.47173710875302866,slow-wave power (1-8 Hz),RandomForest,0
+v34p,1,0.5032391243800214,slow-wave power (1-8 Hz),RandomForest,0
+v35p,1,0.4985289907945744,slow-wave power (1-8 Hz),RandomForest,0
+v36p,1,0.5062122589282996,slow-wave power (1-8 Hz),RandomForest,0
+v37p,1,0.6467760613308369,slow-wave power (1-8 Hz),RandomForest,0
+v38p,1,0.5581733090593641,slow-wave power (1-8 Hz),RandomForest,0
+v39p,1,0.47909911583436404,slow-wave power (1-8 Hz),RandomForest,0
+v3p,1,0.6148702665612904,slow-wave power (1-8 Hz),RandomForest,0
+v40p,1,0.6208445359423185,slow-wave power (1-8 Hz),RandomForest,0
+v41p,0,0.6846835029992118,slow-wave power (1-8 Hz),RandomForest,0
+v42p,0,0.5551029325627969,slow-wave power (1-8 Hz),RandomForest,0
+v43p,0,0.6019163342321809,slow-wave power (1-8 Hz),RandomForest,0
+v44p,0,0.48562255696482276,slow-wave power (1-8 Hz),RandomForest,0
+v45p,0,0.6321579909206582,slow-wave power (1-8 Hz),RandomForest,0
+v46p,0,0.525521818844522,slow-wave power (1-8 Hz),RandomForest,0
+v47p,0,0.5945843603283495,slow-wave power (1-8 Hz),RandomForest,0
+v48p,0,0.5393721580618698,slow-wave power (1-8 Hz),RandomForest,0
+v49p,0,0.5721763335973888,slow-wave power (1-8 Hz),RandomForest,0
+v50p,0,0.6066572226544078,slow-wave power (1-8 Hz),RandomForest,0
+v51p,0,0.5063541105547865,slow-wave power (1-8 Hz),RandomForest,0
+v52p,0,0.49504734608974205,slow-wave power (1-8 Hz),RandomForest,0
+v53p,0,0.5376712711600549,slow-wave power (1-8 Hz),RandomForest,0
+v54p,0,0.5576590082807424,slow-wave power (1-8 Hz),RandomForest,0
+v55p,0,0.5905400674097626,slow-wave power (1-8 Hz),RandomForest,0
+v56p,0,0.526724313171074,slow-wave power (1-8 Hz),RandomForest,0
+v57p,0,0.6855196123983622,slow-wave power (1-8 Hz),RandomForest,0
+v58p,0,0.6211971802580538,slow-wave power (1-8 Hz),RandomForest,0
+v59p,0,0.5532136237677567,slow-wave power (1-8 Hz),RandomForest,0
+v60p,0,0.5489039127932946,slow-wave power (1-8 Hz),RandomForest,0
+v6p,1,0.6240883734705137,slow-wave power (1-8 Hz),RandomForest,0
+v8p,1,0.5287332635549472,slow-wave power (1-8 Hz),RandomForest,0
+v107,0,-1.2897664660455104,slow-wave power (1-8 Hz),SVM-RBF,0
+v108,0,-1.173452151972687,slow-wave power (1-8 Hz),SVM-RBF,0
+v109,0,-1.0605622345390808,slow-wave power (1-8 Hz),SVM-RBF,0
+v10p,1,0.4379397811823575,slow-wave power (1-8 Hz),SVM-RBF,0
+v110,0,-1.0778971332092047,slow-wave power (1-8 Hz),SVM-RBF,0
+v111,0,-0.9700064143510669,slow-wave power (1-8 Hz),SVM-RBF,0
+v112,0,-1.115708242831784,slow-wave power (1-8 Hz),SVM-RBF,0
+v113,0,-0.8431362587806472,slow-wave power (1-8 Hz),SVM-RBF,0
+v114,0,-0.8422166992785489,slow-wave power (1-8 Hz),SVM-RBF,0
+v115,0,-1.4721851417870604,slow-wave power (1-8 Hz),SVM-RBF,0
+v116,0,-1.3505404693774243,slow-wave power (1-8 Hz),SVM-RBF,0
+v117,0,-1.0370688637976668,slow-wave power (1-8 Hz),SVM-RBF,0
+v118,0,-1.0346211391003326,slow-wave power (1-8 Hz),SVM-RBF,0
+v120,0,-0.7707711733299012,slow-wave power (1-8 Hz),SVM-RBF,0
+v121,0,-1.2277752262161987,slow-wave power (1-8 Hz),SVM-RBF,0
+v123,0,-0.8169930577721244,slow-wave power (1-8 Hz),SVM-RBF,0
+v125,0,-0.8839394769697003,slow-wave power (1-8 Hz),SVM-RBF,0
+v127,0,-0.8636538621354385,slow-wave power (1-8 Hz),SVM-RBF,0
+v129,0,-0.6215237606160634,slow-wave power (1-8 Hz),SVM-RBF,0
+v12p,1,0.4572526108888705,slow-wave power (1-8 Hz),SVM-RBF,0
+v131,0,-0.6528851941395934,slow-wave power (1-8 Hz),SVM-RBF,0
+v133,0,-0.869297929276166,slow-wave power (1-8 Hz),SVM-RBF,0
+v134,0,-0.7178115085625888,slow-wave power (1-8 Hz),SVM-RBF,0
+v138,0,-0.18212818996099175,slow-wave power (1-8 Hz),SVM-RBF,0
+v140,0,-0.07163667361267843,slow-wave power (1-8 Hz),SVM-RBF,0
+v143,0,0.27122037000896415,slow-wave power (1-8 Hz),SVM-RBF,0
+v147,0,0.6217163017969222,slow-wave power (1-8 Hz),SVM-RBF,0
+v149,0,0.6449039525639483,slow-wave power (1-8 Hz),SVM-RBF,0
+v14p,1,0.7513713981063094,slow-wave power (1-8 Hz),SVM-RBF,0
+v151,0,-0.043125730129203746,slow-wave power (1-8 Hz),SVM-RBF,0
+v15p,1,-0.3254482713411307,slow-wave power (1-8 Hz),SVM-RBF,0
+v173,1,0.34836932756416555,slow-wave power (1-8 Hz),SVM-RBF,0
+v177,1,-0.03770010738173781,slow-wave power (1-8 Hz),SVM-RBF,0
+v179,1,0.48961789360583546,slow-wave power (1-8 Hz),SVM-RBF,0
+v181,1,0.5671566989220661,slow-wave power (1-8 Hz),SVM-RBF,0
+v183,1,0.658363496722473,slow-wave power (1-8 Hz),SVM-RBF,0
+v18p,1,0.21737113328395555,slow-wave power (1-8 Hz),SVM-RBF,0
+v190,1,-0.05984289213593978,slow-wave power (1-8 Hz),SVM-RBF,0
+v196,1,0.4282760142228173,slow-wave power (1-8 Hz),SVM-RBF,0
+v198,1,0.6954326218881602,slow-wave power (1-8 Hz),SVM-RBF,0
+v19p,1,-0.19795912155627865,slow-wave power (1-8 Hz),SVM-RBF,0
+v1p,1,0.5742387489538069,slow-wave power (1-8 Hz),SVM-RBF,0
+v200,1,0.3782094433888836,slow-wave power (1-8 Hz),SVM-RBF,0
+v204,1,0.5065417494411714,slow-wave power (1-8 Hz),SVM-RBF,0
+v206,1,0.3675392296988801,slow-wave power (1-8 Hz),SVM-RBF,0
+v209,1,0.2627976808675881,slow-wave power (1-8 Hz),SVM-RBF,0
+v20p,1,-0.12071732118346185,slow-wave power (1-8 Hz),SVM-RBF,0
+v213,1,0.8981506939128295,slow-wave power (1-8 Hz),SVM-RBF,0
+v215,1,0.31483572181125447,slow-wave power (1-8 Hz),SVM-RBF,0
+v219,1,0.21892272454696143,slow-wave power (1-8 Hz),SVM-RBF,0
+v21p,1,0.2722306554737056,slow-wave power (1-8 Hz),SVM-RBF,0
+v227,1,-0.16481387710520234,slow-wave power (1-8 Hz),SVM-RBF,0
+v22p,1,0.07748134689271238,slow-wave power (1-8 Hz),SVM-RBF,0
+v231,1,0.504466759635661,slow-wave power (1-8 Hz),SVM-RBF,0
+v234,1,0.9575385559560753,slow-wave power (1-8 Hz),SVM-RBF,0
+v236,1,0.8351045839548216,slow-wave power (1-8 Hz),SVM-RBF,0
+v238,1,0.29040782575536134,slow-wave power (1-8 Hz),SVM-RBF,0
+v244,1,0.045032285835746054,slow-wave power (1-8 Hz),SVM-RBF,0
+v246,1,0.5432158006811659,slow-wave power (1-8 Hz),SVM-RBF,0
+v24p,1,0.07917504230243476,slow-wave power (1-8 Hz),SVM-RBF,0
+v250,1,0.8077607556675105,slow-wave power (1-8 Hz),SVM-RBF,0
+v254,1,0.4639148983525316,slow-wave power (1-8 Hz),SVM-RBF,0
+v25p,1,0.7022360541001792,slow-wave power (1-8 Hz),SVM-RBF,0
+v263,1,0.09825643039542226,slow-wave power (1-8 Hz),SVM-RBF,0
+v265,1,0.51667525853934,slow-wave power (1-8 Hz),SVM-RBF,0
+v270,1,0.8611478540363983,slow-wave power (1-8 Hz),SVM-RBF,0
+v274,1,-0.2125907094376995,slow-wave power (1-8 Hz),SVM-RBF,0
+v279,1,0.04184974454085197,slow-wave power (1-8 Hz),SVM-RBF,0
+v27p,1,-0.47290542149450493,slow-wave power (1-8 Hz),SVM-RBF,0
+v284,1,-0.0023151711489734104,slow-wave power (1-8 Hz),SVM-RBF,0
+v286,1,0.2851870662424173,slow-wave power (1-8 Hz),SVM-RBF,0
+v288,1,0.7878291196085753,slow-wave power (1-8 Hz),SVM-RBF,0
+v28p,1,0.31541721819042506,slow-wave power (1-8 Hz),SVM-RBF,0
+v297,0,0.005325903975222035,slow-wave power (1-8 Hz),SVM-RBF,0
+v298,0,0.007165020187489072,slow-wave power (1-8 Hz),SVM-RBF,0
+v299,0,0.42854786245276344,slow-wave power (1-8 Hz),SVM-RBF,0
+v29p,1,0.4419309755050372,slow-wave power (1-8 Hz),SVM-RBF,0
+v300,0,0.0005349661002597678,slow-wave power (1-8 Hz),SVM-RBF,0
+v302,0,-0.23437953199492703,slow-wave power (1-8 Hz),SVM-RBF,0
+v303,0,-0.137016941360283,slow-wave power (1-8 Hz),SVM-RBF,0
+v304,0,0.17583845526208533,slow-wave power (1-8 Hz),SVM-RBF,0
+v305,0,0.5705696454506872,slow-wave power (1-8 Hz),SVM-RBF,0
+v306,0,0.35278865277087795,slow-wave power (1-8 Hz),SVM-RBF,0
+v307,0,-0.31922672475990904,slow-wave power (1-8 Hz),SVM-RBF,0
+v308,0,-0.12412878085542806,slow-wave power (1-8 Hz),SVM-RBF,0
+v309,0,0.0887843385908686,slow-wave power (1-8 Hz),SVM-RBF,0
+v30p,1,0.3444563340455729,slow-wave power (1-8 Hz),SVM-RBF,0
+v310,0,-0.042878704811045394,slow-wave power (1-8 Hz),SVM-RBF,0
+v31p,1,0.5265982780641166,slow-wave power (1-8 Hz),SVM-RBF,0
+v32p,1,0.7808051636505665,slow-wave power (1-8 Hz),SVM-RBF,0
+v33p,1,-0.22540837604031466,slow-wave power (1-8 Hz),SVM-RBF,0
+v34p,1,0.3177567619317107,slow-wave power (1-8 Hz),SVM-RBF,0
+v35p,1,-0.10127492411029503,slow-wave power (1-8 Hz),SVM-RBF,0
+v36p,1,0.3920340305033877,slow-wave power (1-8 Hz),SVM-RBF,0
+v37p,1,0.6577807466193046,slow-wave power (1-8 Hz),SVM-RBF,0
+v38p,1,0.46014394728136754,slow-wave power (1-8 Hz),SVM-RBF,0
+v39p,1,-0.19603603796923746,slow-wave power (1-8 Hz),SVM-RBF,0
+v3p,1,0.7902718583593389,slow-wave power (1-8 Hz),SVM-RBF,0
+v40p,1,0.28874305801708344,slow-wave power (1-8 Hz),SVM-RBF,0
+v41p,0,0.7120006829430086,slow-wave power (1-8 Hz),SVM-RBF,0
+v42p,0,0.11635816583761836,slow-wave power (1-8 Hz),SVM-RBF,0
+v43p,0,0.8359054504420402,slow-wave power (1-8 Hz),SVM-RBF,0
+v44p,0,0.20740847677260071,slow-wave power (1-8 Hz),SVM-RBF,0
+v45p,0,0.5628471527134864,slow-wave power (1-8 Hz),SVM-RBF,0
+v46p,0,0.3941606199470798,slow-wave power (1-8 Hz),SVM-RBF,0
+v47p,0,0.3096397301046195,slow-wave power (1-8 Hz),SVM-RBF,0
+v48p,0,0.27202837142808106,slow-wave power (1-8 Hz),SVM-RBF,0
+v49p,0,0.5610219445296212,slow-wave power (1-8 Hz),SVM-RBF,0
+v50p,0,0.49728798076279646,slow-wave power (1-8 Hz),SVM-RBF,0
+v51p,0,-0.09790845321090638,slow-wave power (1-8 Hz),SVM-RBF,0
+v52p,0,-0.04804675450189611,slow-wave power (1-8 Hz),SVM-RBF,0
+v53p,0,0.1409066144762299,slow-wave power (1-8 Hz),SVM-RBF,0
+v54p,0,0.7197456892718331,slow-wave power (1-8 Hz),SVM-RBF,0
+v55p,0,0.41258788186358175,slow-wave power (1-8 Hz),SVM-RBF,0
+v56p,0,0.5935364455314657,slow-wave power (1-8 Hz),SVM-RBF,0
+v57p,0,0.6157273278980397,slow-wave power (1-8 Hz),SVM-RBF,0
+v58p,0,0.5743926133764281,slow-wave power (1-8 Hz),SVM-RBF,0
+v59p,0,0.7836744464355389,slow-wave power (1-8 Hz),SVM-RBF,0
+v60p,0,0.3539609040020513,slow-wave power (1-8 Hz),SVM-RBF,0
+v6p,1,0.7099750239815069,slow-wave power (1-8 Hz),SVM-RBF,0
+v8p,1,0.572682618075065,slow-wave power (1-8 Hz),SVM-RBF,0
+v107,0,0.23590344494453647,slow-wave power (1-8 Hz),KNN,0
+v108,0,0.18067969223870403,slow-wave power (1-8 Hz),KNN,0
+v109,0,0.26282712761077365,slow-wave power (1-8 Hz),KNN,0
+v10p,1,0.6081545817563478,slow-wave power (1-8 Hz),KNN,0
+v110,0,0.1338716077849126,slow-wave power (1-8 Hz),KNN,0
+v111,0,0.3726337189181669,slow-wave power (1-8 Hz),KNN,0
+v112,0,0.27524461813411394,slow-wave power (1-8 Hz),KNN,0
+v113,0,0.361460991275321,slow-wave power (1-8 Hz),KNN,0
+v114,0,0.30680260963041706,slow-wave power (1-8 Hz),KNN,0
+v115,0,0.18091426706662592,slow-wave power (1-8 Hz),KNN,0
+v116,0,0.1214275320401817,slow-wave power (1-8 Hz),KNN,0
+v117,0,0.24520645833220187,slow-wave power (1-8 Hz),KNN,0
+v118,0,0.2647543855719778,slow-wave power (1-8 Hz),KNN,0
+v120,0,0.43585048671807575,slow-wave power (1-8 Hz),KNN,0
+v121,0,0.2806314148712424,slow-wave power (1-8 Hz),KNN,0
+v123,0,0.32736192674169956,slow-wave power (1-8 Hz),KNN,0
+v125,0,0.21327459727478643,slow-wave power (1-8 Hz),KNN,0
+v127,0,0.36071166421735773,slow-wave power (1-8 Hz),KNN,0
+v129,0,0.42360116894025257,slow-wave power (1-8 Hz),KNN,0
+v12p,1,0.6440923949324789,slow-wave power (1-8 Hz),KNN,0
+v131,0,0.3828112868273429,slow-wave power (1-8 Hz),KNN,0
+v133,0,0.3424238089621318,slow-wave power (1-8 Hz),KNN,0
+v134,0,0.34713991504090286,slow-wave power (1-8 Hz),KNN,0
+v138,0,0.567819905084937,slow-wave power (1-8 Hz),KNN,0
+v140,0,0.6276979383079595,slow-wave power (1-8 Hz),KNN,0
+v143,0,0.6426876093865402,slow-wave power (1-8 Hz),KNN,0
+v147,0,0.6153596577950283,slow-wave power (1-8 Hz),KNN,0
+v149,0,0.684360976625099,slow-wave power (1-8 Hz),KNN,0
+v14p,1,0.6118518502149739,slow-wave power (1-8 Hz),KNN,0
+v151,0,0.5905986267827988,slow-wave power (1-8 Hz),KNN,0
+v15p,1,0.41189440383053316,slow-wave power (1-8 Hz),KNN,0
+v173,1,0.570911699340714,slow-wave power (1-8 Hz),KNN,0
+v177,1,0.5790084890055341,slow-wave power (1-8 Hz),KNN,0
+v179,1,0.6564016481866881,slow-wave power (1-8 Hz),KNN,0
+v181,1,0.6800131614263515,slow-wave power (1-8 Hz),KNN,0
+v183,1,0.6715094250506835,slow-wave power (1-8 Hz),KNN,0
+v18p,1,0.6180325528608873,slow-wave power (1-8 Hz),KNN,0
+v190,1,0.5113362286996144,slow-wave power (1-8 Hz),KNN,0
+v196,1,0.6687435005327276,slow-wave power (1-8 Hz),KNN,0
+v198,1,0.6370463503385349,slow-wave power (1-8 Hz),KNN,0
+v19p,1,0.5731601710464267,slow-wave power (1-8 Hz),KNN,0
+v1p,1,0.6429519742853831,slow-wave power (1-8 Hz),KNN,0
+v200,1,0.6138737116913663,slow-wave power (1-8 Hz),KNN,0
+v204,1,0.5863056918888028,slow-wave power (1-8 Hz),KNN,0
+v206,1,0.6252612393544157,slow-wave power (1-8 Hz),KNN,0
+v209,1,0.6334881428387313,slow-wave power (1-8 Hz),KNN,0
+v20p,1,0.5276860982854344,slow-wave power (1-8 Hz),KNN,0
+v213,1,0.704889348329865,slow-wave power (1-8 Hz),KNN,0
+v215,1,0.5836025725856222,slow-wave power (1-8 Hz),KNN,0
+v219,1,0.5803417928016872,slow-wave power (1-8 Hz),KNN,0
+v21p,1,0.6886614520905937,slow-wave power (1-8 Hz),KNN,0
+v227,1,0.5229073019344075,slow-wave power (1-8 Hz),KNN,0
+v22p,1,0.5274503362127546,slow-wave power (1-8 Hz),KNN,0
+v231,1,0.6606027485352317,slow-wave power (1-8 Hz),KNN,0
+v234,1,0.8094104325740945,slow-wave power (1-8 Hz),KNN,0
+v236,1,0.6334210543654616,slow-wave power (1-8 Hz),KNN,0
+v238,1,0.615749411803155,slow-wave power (1-8 Hz),KNN,0
+v244,1,0.5763642833232016,slow-wave power (1-8 Hz),KNN,0
+v246,1,0.6967671842163686,slow-wave power (1-8 Hz),KNN,0
+v24p,1,0.6087219302874618,slow-wave power (1-8 Hz),KNN,0
+v250,1,0.6774995142577285,slow-wave power (1-8 Hz),KNN,0
+v254,1,0.6915893125879283,slow-wave power (1-8 Hz),KNN,0
+v25p,1,0.6407885280652226,slow-wave power (1-8 Hz),KNN,0
+v263,1,0.6390297578775122,slow-wave power (1-8 Hz),KNN,0
+v265,1,0.7589111036723902,slow-wave power (1-8 Hz),KNN,0
+v270,1,0.7501246451022429,slow-wave power (1-8 Hz),KNN,0
+v274,1,0.5964082702101897,slow-wave power (1-8 Hz),KNN,0
+v279,1,0.5699191846054767,slow-wave power (1-8 Hz),KNN,0
+v27p,1,0.3581183696762068,slow-wave power (1-8 Hz),KNN,0
+v284,1,0.6115999443561511,slow-wave power (1-8 Hz),KNN,0
+v286,1,0.6477969468080036,slow-wave power (1-8 Hz),KNN,0
+v288,1,0.7028532600664533,slow-wave power (1-8 Hz),KNN,0
+v28p,1,0.5922896514797237,slow-wave power (1-8 Hz),KNN,0
+v297,0,0.5386276053840373,slow-wave power (1-8 Hz),KNN,0
+v298,0,0.5235484346919272,slow-wave power (1-8 Hz),KNN,0
+v299,0,0.6470180605654836,slow-wave power (1-8 Hz),KNN,0
+v29p,1,0.6199236767066532,slow-wave power (1-8 Hz),KNN,0
+v300,0,0.5545733456609568,slow-wave power (1-8 Hz),KNN,0
+v302,0,0.51936146127471,slow-wave power (1-8 Hz),KNN,0
+v303,0,0.6159847026313904,slow-wave power (1-8 Hz),KNN,0
+v304,0,0.6139124139100931,slow-wave power (1-8 Hz),KNN,0
+v305,0,0.6622545424765809,slow-wave power (1-8 Hz),KNN,0
+v306,0,0.6215071914659972,slow-wave power (1-8 Hz),KNN,0
+v307,0,0.5082881159266818,slow-wave power (1-8 Hz),KNN,0
+v308,0,0.5507883706671796,slow-wave power (1-8 Hz),KNN,0
+v309,0,0.6308460836814599,slow-wave power (1-8 Hz),KNN,0
+v30p,1,0.6914207548369765,slow-wave power (1-8 Hz),KNN,0
+v310,0,0.5636108494306515,slow-wave power (1-8 Hz),KNN,0
+v31p,1,0.6154567845432611,slow-wave power (1-8 Hz),KNN,0
+v32p,1,0.7433412781155736,slow-wave power (1-8 Hz),KNN,0
+v33p,1,0.600382626603647,slow-wave power (1-8 Hz),KNN,0
+v34p,1,0.6379770880021242,slow-wave power (1-8 Hz),KNN,0
+v35p,1,0.5587697246936217,slow-wave power (1-8 Hz),KNN,0
+v36p,1,0.6818402613573802,slow-wave power (1-8 Hz),KNN,0
+v37p,1,0.7137422159734004,slow-wave power (1-8 Hz),KNN,0
+v38p,1,0.6135636788936987,slow-wave power (1-8 Hz),KNN,0
+v39p,1,0.5186695817087377,slow-wave power (1-8 Hz),KNN,0
+v3p,1,0.637503873026043,slow-wave power (1-8 Hz),KNN,0
+v40p,1,0.6146057797833915,slow-wave power (1-8 Hz),KNN,0
+v41p,0,0.7399710471153916,slow-wave power (1-8 Hz),KNN,0
+v42p,0,0.6596283570537697,slow-wave power (1-8 Hz),KNN,0
+v43p,0,0.7242165810761092,slow-wave power (1-8 Hz),KNN,0
+v44p,0,0.5562454362452536,slow-wave power (1-8 Hz),KNN,0
+v45p,0,0.6943256370172813,slow-wave power (1-8 Hz),KNN,0
+v46p,0,0.656146918298325,slow-wave power (1-8 Hz),KNN,0
+v47p,0,0.6672256973534401,slow-wave power (1-8 Hz),KNN,0
+v48p,0,0.5976259273857135,slow-wave power (1-8 Hz),KNN,0
+v49p,0,0.7154548234068836,slow-wave power (1-8 Hz),KNN,0
+v50p,0,0.6946743180657999,slow-wave power (1-8 Hz),KNN,0
+v51p,0,0.5207277647687046,slow-wave power (1-8 Hz),KNN,0
+v52p,0,0.6272684766505181,slow-wave power (1-8 Hz),KNN,0
+v53p,0,0.6283964481303453,slow-wave power (1-8 Hz),KNN,0
+v54p,0,0.6126462152657282,slow-wave power (1-8 Hz),KNN,0
+v55p,0,0.7254077692713604,slow-wave power (1-8 Hz),KNN,0
+v56p,0,0.670818211593776,slow-wave power (1-8 Hz),KNN,0
+v57p,0,0.70687602978671,slow-wave power (1-8 Hz),KNN,0
+v58p,0,0.6565653198660835,slow-wave power (1-8 Hz),KNN,0
+v59p,0,0.6160517617746489,slow-wave power (1-8 Hz),KNN,0
+v60p,0,0.6906638534129185,slow-wave power (1-8 Hz),KNN,0
+v6p,1,0.6790359589177366,slow-wave power (1-8 Hz),KNN,0
+v8p,1,0.6646457446189744,slow-wave power (1-8 Hz),KNN,0
+v107,0,0.4272028732993682,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v108,0,0.7785422355731263,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v109,0,0.604608638391264,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v10p,1,0.5023608606967056,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v110,0,0.7005009399662696,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v111,0,0.20256519801205422,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v112,0,0.6156400243458626,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v113,0,0.20984085170665262,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v114,0,0.15230532548499562,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v115,0,0.136861944237777,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v116,0,0.13117340212675316,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v117,0,0.132758104475414,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v118,0,0.212947843167096,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v120,0,0.3222336839434245,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v121,0,0.6182026960239889,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v123,0,0.7368939091530423,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v125,0,0.3395958228857659,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v127,0,0.8689547101434657,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v129,0,0.49050515623905167,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v12p,1,0.24721470034853396,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v131,0,0.5352427767344358,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v133,0,0.6678054424885711,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v134,0,0.8351731611139187,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v138,0,0.7611251740035785,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v140,0,0.7317457027132782,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v143,0,0.6623541314772313,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v147,0,0.8863065801343374,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v149,0,0.5686231845010454,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v14p,1,0.13775220169421756,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v151,0,0.6326323462728288,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v15p,1,0.6196959051478022,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v173,1,0.8664193491528794,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v177,1,0.844769477867403,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v179,1,0.8375105359945991,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v181,1,0.8574821873255032,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v183,1,0.7901366771081002,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v18p,1,0.7501521035291576,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v190,1,0.3059275669318581,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v196,1,0.3093850333758146,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v198,1,0.8283898447027401,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v19p,1,0.2861314950337364,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v1p,1,0.12450506138174394,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v200,1,0.9047410170636744,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v204,1,0.9361959694705719,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v206,1,0.5132223616589884,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v209,1,0.9063710446227236,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v20p,1,0.7574886790444445,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v213,1,0.8574131333112166,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v215,1,0.9237335923149064,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v219,1,0.2869502938397,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v21p,1,0.8090608955294716,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v227,1,0.5161068919133047,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v22p,1,0.781659367126937,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v231,1,0.552877100906892,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v234,1,0.6580556397950952,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v236,1,0.9392399009136209,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v238,1,0.9212913456701376,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v244,1,0.9061037151667736,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v246,1,0.7560645725951138,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v24p,1,0.7631308791026843,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v250,1,0.5752379853403483,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v254,1,0.8614834537804066,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v25p,1,0.8129343427550464,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v263,1,0.9501622305066763,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v265,1,0.7857146048088459,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v270,1,0.7535737901493385,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v274,1,0.7758010492085479,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v279,1,0.7520052830557319,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v27p,1,0.47184351453667345,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v284,1,0.5193509826419244,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v286,1,0.8205366601784696,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v288,1,0.7682506763744643,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v28p,1,0.2493383953510678,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v297,0,0.3077531739043802,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v298,0,0.9353589422218735,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v299,0,0.5220847747458996,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v29p,1,0.7463805047269616,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v300,0,0.3482083260759388,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v302,0,0.3079186001669366,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v303,0,0.45647493315883725,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v304,0,0.2112104127613635,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v305,0,0.29520765775607904,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v306,0,0.13658520113394987,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v307,0,0.1159124852667144,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v308,0,0.15169156144338444,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v309,0,0.3662265190268829,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v30p,1,0.8862800719070583,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v310,0,0.265299228740356,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v31p,1,0.9538958918088629,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v32p,1,0.9455882930957918,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v33p,1,0.943773107825754,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v34p,1,0.8430623007328792,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v35p,1,0.9285220196704581,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v36p,1,0.7597750616885559,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v37p,1,0.9587284936704596,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v38p,1,0.6934518640725188,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v39p,1,0.9682919219303925,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v3p,1,0.8496859243281187,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v40p,1,0.8894393171152347,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v41p,0,0.6821394815590923,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v42p,0,0.38274753528527516,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v43p,0,0.4174824575479587,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v44p,0,0.35986179283185415,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v45p,0,0.9645259849765244,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v46p,0,0.10455076611701382,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v47p,0,0.0036073227544850565,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v48p,0,0.03315783591693301,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v49p,0,0.8722077434571847,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v50p,0,0.43508283805133174,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v51p,0,0.793738557819461,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v52p,0,0.22589773649056585,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v53p,0,0.26434026159501717,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v54p,0,0.026313894241358077,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v55p,0,0.48969994792134885,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v56p,0,0.0202619757826269,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v57p,0,0.021897732686612017,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v58p,0,0.17690157297870007,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v59p,0,0.5643557724019859,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v60p,0,0.8811530660859072,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v6p,1,0.10700167194664331,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v8p,1,0.40979818424079073,old 'slow' = 12.5 Hz+ power,RandomForest,0
+v107,0,-0.8113495907107234,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v108,0,0.637639457988698,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v109,0,0.20145989369317283,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v10p,1,0.31899111576780875,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v110,0,0.8483330828082192,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v111,0,0.5948828240509021,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v112,0,0.8974122616011523,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v113,0,-1.2123858481858873,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v114,0,-2.2069895253038476,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v115,0,-1.2740889897579017,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v116,0,-1.807600814832658,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v117,0,-0.2891149909131754,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v118,0,-0.8197673793993397,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v120,0,-1.5012609251875209,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v121,0,0.36717552065947706,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v123,0,0.1585381876885835,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v125,0,-0.46744657311242827,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v127,0,1.5170255279512783,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v129,0,-0.3469263331337289,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v12p,1,-1.0807627693347257,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v131,0,-0.0990559982973315,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v133,0,0.015774089712228483,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v134,0,0.38697166846383385,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v138,0,0.9819455231709423,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v140,0,0.9407994658746565,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v143,0,-0.23057742410300783,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v147,0,1.378074808470071,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v149,0,-0.45963405482819303,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v14p,1,-0.9362706799443199,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v151,0,2.8123997885283796,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v15p,1,0.1043358122724292,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v173,1,0.9494238971635977,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v177,1,0.8668919354679446,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v179,1,1.0813200747285356,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v181,1,1.9805370131559799,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v183,1,1.0154904254330956,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v18p,1,0.7269067080825672,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v190,1,-0.5593199150605904,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v196,1,-0.5597386415129101,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v198,1,1.018460437703801,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v19p,1,-1.5367000924133287,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v1p,1,-1.4875745064407362,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v200,1,1.1201821025318919,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v204,1,0.0378878199248367,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v206,1,-0.19088161692094618,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v209,1,0.9628051915926868,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v20p,1,0.4196279774624506,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v213,1,0.7659024125022978,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v215,1,1.3757360728614993,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v219,1,-0.7283544463952651,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v21p,1,1.1457043444759198,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v227,1,0.20627618612403933,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v22p,1,1.151797768829685,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v231,1,0.3126853580594924,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v234,1,0.598645048272496,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v236,1,1.725839426046988,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v238,1,1.499362608986232,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v244,1,1.279513190437404,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v246,1,0.8994881991012407,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v24p,1,0.80006506248115,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v250,1,0.0152484405718353,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v254,1,0.8647109909575512,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v25p,1,0.5267429753075676,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v263,1,2.0281083449162045,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v265,1,0.530347226779027,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v270,1,0.47060641311930346,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v274,1,0.23926614689453485,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v279,1,0.6192893664350259,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v27p,1,-0.26106857560650726,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v284,1,0.7291173831381065,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v286,1,1.2408934096214528,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v288,1,0.33655543639134533,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v28p,1,-0.739748695558359,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v297,0,-0.9025106441129963,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v298,0,0.8897374940127601,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v299,0,-0.06184710391450337,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v29p,1,0.8171330327770767,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v300,0,-1.1292595808637096,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v302,0,-1.6745921510441695,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v303,0,-0.5526716159421745,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v304,0,-2.1696199067071484,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v305,0,-0.796838503736028,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v306,0,-1.2649327947209403,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v307,0,-1.4279701101061661,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v308,0,-0.5045125955855368,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v309,0,0.6388927659245404,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v30p,1,1.1337630971748462,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v310,0,-0.4106357661227788,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v31p,1,1.3278511715464951,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v32p,1,1.8396191693827493,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v33p,1,1.2813566711772457,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v34p,1,1.1265584738070082,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v35p,1,1.100680535823502,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v36p,1,0.9994541169261699,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v37p,1,1.6556240550049983,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v38p,1,0.7236630111813525,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v39p,1,1.4081777944857192,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v3p,1,1.072873908027337,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v40p,1,1.2112873486616043,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v41p,0,1.0294394955188346,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v42p,0,-1.5451011453081451,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v43p,0,-0.34626387578541684,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v44p,0,-0.9288166073214104,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v45p,0,2.2340580765570826,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v46p,0,-0.6362099210213351,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v47p,0,-0.9664943646753995,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v48p,0,-1.0366501756985378,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v49p,0,1.7339706681371723,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v50p,0,-1.1159215254722663,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v51p,0,1.2061220231915042,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v52p,0,-1.3808708780667553,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v53p,0,-0.8922257986423632,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v54p,0,-0.901805273227044,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v55p,0,-0.3985956039670274,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v56p,0,-0.8111933614828486,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v57p,0,-1.5647330470220815,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v58p,0,-1.2375893344861522,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v59p,0,-0.18337289787157332,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v60p,0,1.391816854989865,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v6p,1,-1.5313580600105448,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v8p,1,-0.28748603108702714,old 'slow' = 12.5 Hz+ power,SVM-RBF,0
+v107,0,0.4227316699847321,old 'slow' = 12.5 Hz+ power,KNN,0
+v108,0,0.952004484922467,old 'slow' = 12.5 Hz+ power,KNN,0
+v109,0,0.48396631968343246,old 'slow' = 12.5 Hz+ power,KNN,0
+v10p,1,0.7855492351556862,old 'slow' = 12.5 Hz+ power,KNN,0
+v110,0,0.7087814274066662,old 'slow' = 12.5 Hz+ power,KNN,0
+v111,0,0.6802537626721976,old 'slow' = 12.5 Hz+ power,KNN,0
+v112,0,0.9715200071717449,old 'slow' = 12.5 Hz+ power,KNN,0
+v113,0,0.36056655669973225,old 'slow' = 12.5 Hz+ power,KNN,0
+v114,0,0.008870745513149154,old 'slow' = 12.5 Hz+ power,KNN,0
+v115,0,0.5724506917814652,old 'slow' = 12.5 Hz+ power,KNN,0
+v116,0,0.023075235624169355,old 'slow' = 12.5 Hz+ power,KNN,0
+v117,0,0.6267614078451696,old 'slow' = 12.5 Hz+ power,KNN,0
+v118,0,0.37883372335683513,old 'slow' = 12.5 Hz+ power,KNN,0
+v120,0,0.2030274375682874,old 'slow' = 12.5 Hz+ power,KNN,0
+v121,0,0.5418674226843806,old 'slow' = 12.5 Hz+ power,KNN,0
+v123,0,0.3689461082734996,old 'slow' = 12.5 Hz+ power,KNN,0
+v125,0,0.45146628600177413,old 'slow' = 12.5 Hz+ power,KNN,0
+v127,0,0.9498435715687064,old 'slow' = 12.5 Hz+ power,KNN,0
+v129,0,0.7211849915861235,old 'slow' = 12.5 Hz+ power,KNN,0
+v12p,1,0.24595421207722393,old 'slow' = 12.5 Hz+ power,KNN,0
+v131,0,0.5806187363103559,old 'slow' = 12.5 Hz+ power,KNN,0
+v133,0,0.6790049658006796,old 'slow' = 12.5 Hz+ power,KNN,0
+v134,0,0.8619541735161668,old 'slow' = 12.5 Hz+ power,KNN,0
+v138,0,0.8580735081534131,old 'slow' = 12.5 Hz+ power,KNN,0
+v140,0,0.8432488890876921,old 'slow' = 12.5 Hz+ power,KNN,0
+v143,0,0.7436823700744071,old 'slow' = 12.5 Hz+ power,KNN,0
+v147,0,0.9439785630498401,old 'slow' = 12.5 Hz+ power,KNN,0
+v149,0,0.4072895015275965,old 'slow' = 12.5 Hz+ power,KNN,0
+v14p,1,0.01712712613842696,old 'slow' = 12.5 Hz+ power,KNN,0
+v151,0,0.8924152369493397,old 'slow' = 12.5 Hz+ power,KNN,0
+v15p,1,0.9146183855336746,old 'slow' = 12.5 Hz+ power,KNN,0
+v173,1,0.8912276137348192,old 'slow' = 12.5 Hz+ power,KNN,0
+v177,1,0.9360410852028067,old 'slow' = 12.5 Hz+ power,KNN,0
+v179,1,0.8393540603569526,old 'slow' = 12.5 Hz+ power,KNN,0
+v181,1,0.9750893544729002,old 'slow' = 12.5 Hz+ power,KNN,0
+v183,1,0.9502746796765051,old 'slow' = 12.5 Hz+ power,KNN,0
+v18p,1,0.8535658234003889,old 'slow' = 12.5 Hz+ power,KNN,0
+v190,1,0.4642267473837992,old 'slow' = 12.5 Hz+ power,KNN,0
+v196,1,0.9082289594952692,old 'slow' = 12.5 Hz+ power,KNN,0
+v198,1,0.9155632091027108,old 'slow' = 12.5 Hz+ power,KNN,0
+v19p,1,0.3061091743862957,old 'slow' = 12.5 Hz+ power,KNN,0
+v1p,1,0.03557692833132345,old 'slow' = 12.5 Hz+ power,KNN,0
+v200,1,0.9379510026579473,old 'slow' = 12.5 Hz+ power,KNN,0
+v204,1,0.7888104251654589,old 'slow' = 12.5 Hz+ power,KNN,0
+v206,1,0.4342253462142378,old 'slow' = 12.5 Hz+ power,KNN,0
+v209,1,0.9367631723105765,old 'slow' = 12.5 Hz+ power,KNN,0
+v20p,1,0.8514548328965165,old 'slow' = 12.5 Hz+ power,KNN,0
+v213,1,0.954116613439839,old 'slow' = 12.5 Hz+ power,KNN,0
+v215,1,0.9314125597612958,old 'slow' = 12.5 Hz+ power,KNN,0
+v219,1,0.30308008018456173,old 'slow' = 12.5 Hz+ power,KNN,0
+v21p,1,0.9716722630875176,old 'slow' = 12.5 Hz+ power,KNN,0
+v227,1,0.6209823468273081,old 'slow' = 12.5 Hz+ power,KNN,0
+v22p,1,0.9349726530559465,old 'slow' = 12.5 Hz+ power,KNN,0
+v231,1,0.7865556030550167,old 'slow' = 12.5 Hz+ power,KNN,0
+v234,1,0.7447451722066138,old 'slow' = 12.5 Hz+ power,KNN,0
+v236,1,0.9686653475777376,old 'slow' = 12.5 Hz+ power,KNN,0
+v238,1,0.951415684305464,old 'slow' = 12.5 Hz+ power,KNN,0
+v244,1,0.9587872476087617,old 'slow' = 12.5 Hz+ power,KNN,0
+v246,1,0.9455021352543831,old 'slow' = 12.5 Hz+ power,KNN,0
+v24p,1,0.9141703851739705,old 'slow' = 12.5 Hz+ power,KNN,0
+v250,1,0.4845593532323533,old 'slow' = 12.5 Hz+ power,KNN,0
+v254,1,0.9276056282753515,old 'slow' = 12.5 Hz+ power,KNN,0
+v25p,1,0.6918862401472174,old 'slow' = 12.5 Hz+ power,KNN,0
+v263,1,0.9919357193004282,old 'slow' = 12.5 Hz+ power,KNN,0
+v265,1,0.8318872955912036,old 'slow' = 12.5 Hz+ power,KNN,0
+v270,1,0.7855496606698271,old 'slow' = 12.5 Hz+ power,KNN,0
+v274,1,0.8956119114570676,old 'slow' = 12.5 Hz+ power,KNN,0
+v279,1,0.8419462096220534,old 'slow' = 12.5 Hz+ power,KNN,0
+v27p,1,0.5797498475925531,old 'slow' = 12.5 Hz+ power,KNN,0
+v284,1,0.6439976757788893,old 'slow' = 12.5 Hz+ power,KNN,0
+v286,1,0.9722168010739712,old 'slow' = 12.5 Hz+ power,KNN,0
+v288,1,0.7264466860463327,old 'slow' = 12.5 Hz+ power,KNN,0
+v28p,1,0.18740513826320593,old 'slow' = 12.5 Hz+ power,KNN,0
+v297,0,0.3162517032125623,old 'slow' = 12.5 Hz+ power,KNN,0
+v298,0,0.9542558501671995,old 'slow' = 12.5 Hz+ power,KNN,0
+v299,0,0.5733798182248614,old 'slow' = 12.5 Hz+ power,KNN,0
+v29p,1,0.9139734047807948,old 'slow' = 12.5 Hz+ power,KNN,0
+v300,0,0.06887853683927957,old 'slow' = 12.5 Hz+ power,KNN,0
+v302,0,0.23827630244191086,old 'slow' = 12.5 Hz+ power,KNN,0
+v303,0,0.36352617173966856,old 'slow' = 12.5 Hz+ power,KNN,0
+v304,0,0.0,old 'slow' = 12.5 Hz+ power,KNN,0
+v305,0,0.7607391376855328,old 'slow' = 12.5 Hz+ power,KNN,0
+v306,0,0.4526090075099128,old 'slow' = 12.5 Hz+ power,KNN,0
+v307,0,0.0,old 'slow' = 12.5 Hz+ power,KNN,0
+v308,0,0.3461411971116154,old 'slow' = 12.5 Hz+ power,KNN,0
+v309,0,0.6137472463320476,old 'slow' = 12.5 Hz+ power,KNN,0
+v30p,1,0.9505836655688258,old 'slow' = 12.5 Hz+ power,KNN,0
+v310,0,0.6544367374462509,old 'slow' = 12.5 Hz+ power,KNN,0
+v31p,1,0.9731048790264336,old 'slow' = 12.5 Hz+ power,KNN,0
+v32p,1,0.9914555786234776,old 'slow' = 12.5 Hz+ power,KNN,0
+v33p,1,0.9824537129013028,old 'slow' = 12.5 Hz+ power,KNN,0
+v34p,1,0.973757739084632,old 'slow' = 12.5 Hz+ power,KNN,0
+v35p,1,0.9050401804928908,old 'slow' = 12.5 Hz+ power,KNN,0
+v36p,1,0.9029242542120761,old 'slow' = 12.5 Hz+ power,KNN,0
+v37p,1,0.991270092656523,old 'slow' = 12.5 Hz+ power,KNN,0
+v38p,1,0.5889911806014173,old 'slow' = 12.5 Hz+ power,KNN,0
+v39p,1,0.9357164742220766,old 'slow' = 12.5 Hz+ power,KNN,0
+v3p,1,0.7890310911553959,old 'slow' = 12.5 Hz+ power,KNN,0
+v40p,1,0.9516497634324972,old 'slow' = 12.5 Hz+ power,KNN,0
+v41p,0,0.8603235303769926,old 'slow' = 12.5 Hz+ power,KNN,0
+v42p,0,0.2695199235150021,old 'slow' = 12.5 Hz+ power,KNN,0
+v43p,0,0.007752986552738948,old 'slow' = 12.5 Hz+ power,KNN,0
+v44p,0,0.38799558776125953,old 'slow' = 12.5 Hz+ power,KNN,0
+v45p,0,1.0,old 'slow' = 12.5 Hz+ power,KNN,0
+v46p,0,0.39199997346086857,old 'slow' = 12.5 Hz+ power,KNN,0
+v47p,0,0.04667035381110285,old 'slow' = 12.5 Hz+ power,KNN,0
+v48p,0,0.19574803939755916,old 'slow' = 12.5 Hz+ power,KNN,0
+v49p,0,0.8883238760973936,old 'slow' = 12.5 Hz+ power,KNN,0
+v50p,0,0.45223724537932747,old 'slow' = 12.5 Hz+ power,KNN,0
+v51p,0,0.9495093378161537,old 'slow' = 12.5 Hz+ power,KNN,0
+v52p,0,0.019614273037292435,old 'slow' = 12.5 Hz+ power,KNN,0
+v53p,0,0.16142165441462922,old 'slow' = 12.5 Hz+ power,KNN,0
+v54p,0,0.03523612537260062,old 'slow' = 12.5 Hz+ power,KNN,0
+v55p,0,0.2809857537770414,old 'slow' = 12.5 Hz+ power,KNN,0
+v56p,0,0.0844413448400763,old 'slow' = 12.5 Hz+ power,KNN,0
+v57p,0,0.006373797382854517,old 'slow' = 12.5 Hz+ power,KNN,0
+v58p,0,0.0,old 'slow' = 12.5 Hz+ power,KNN,0
+v59p,0,0.09688536811818083,old 'slow' = 12.5 Hz+ power,KNN,0
+v60p,0,0.9580278126812267,old 'slow' = 12.5 Hz+ power,KNN,0
+v6p,1,0.19088868316228078,old 'slow' = 12.5 Hz+ power,KNN,0
+v8p,1,0.5085082432141214,old 'slow' = 12.5 Hz+ power,KNN,0

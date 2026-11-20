@@ -1,0 +1,23 @@
+121 subjects, 8400 epochs
+full (5 bands + TBR + HFD)       RandomForest subjAUC=0.811 [0.733, 0.882] subjBalAcc=0.743 epochBalAcc=0.730 (120s)
+full (5 bands + TBR + HFD)       SVM-RBF      subjAUC=0.855 [0.786, 0.917] subjBalAcc=0.769 epochBalAcc=0.737 (23s)
+full (5 bands + TBR + HFD)       KNN          subjAUC=0.816 [0.739, 0.887] subjBalAcc=0.718 epochBalAcc=0.711 (12s)
+theta/beta ratio                 RandomForest subjAUC=0.607 [0.500, 0.703] subjBalAcc=0.602 epochBalAcc=0.540 (48s)
+theta/beta ratio                 SVM-RBF      subjAUC=0.721 [0.627, 0.804] subjBalAcc=0.693 epochBalAcc=0.576 (24s)
+theta/beta ratio                 KNN          subjAUC=0.560 [0.456, 0.665] subjBalAcc=0.533 epochBalAcc=0.497 (5s)
+alpha power                      RandomForest subjAUC=0.623 [0.519, 0.721] subjBalAcc=0.610 epochBalAcc=0.561 (48s)
+alpha power                      SVM-RBF      subjAUC=0.761 [0.672, 0.844] subjBalAcc=0.710 epochBalAcc=0.610 (21s)
+alpha power                      KNN          subjAUC=0.656 [0.555, 0.751] subjBalAcc=0.634 epochBalAcc=0.577 (5s)
+slow-wave power (1-8 Hz)         RandomForest subjAUC=0.710 [0.613, 0.796] subjBalAcc=0.652 epochBalAcc=0.613 (44s)
+slow-wave power (1-8 Hz)         SVM-RBF      subjAUC=0.717 [0.621, 0.805] subjBalAcc=0.660 epochBalAcc=0.615 (22s)
+slow-wave power (1-8 Hz)         KNN          subjAUC=0.669 [0.569, 0.765] subjBalAcc=0.659 epochBalAcc=0.607 (5s)
+old 'slow' = 12.5 Hz+ power      RandomForest subjAUC=0.767 [0.680, 0.849] subjBalAcc=0.710 epochBalAcc=0.700 (41s)
+old 'slow' = 12.5 Hz+ power      SVM-RBF      subjAUC=0.734 [0.642, 0.825] subjBalAcc=0.727 epochBalAcc=0.712 (9s)
+old 'slow' = 12.5 Hz+ power      KNN          subjAUC=0.758 [0.672, 0.844] subjBalAcc=0.693 epochBalAcc=0.674 (5s)
+
+Leaky vs correct split (SVM, full features, balanced accuracy):
+  LEAKY epoch-level StratifiedKFold             0.987
+  correct subject-grouped StratifiedGroupKFold  0.744
+
+Permutation test (20 subject-level label shuffles, RF, full features)...
+  observed subject AUC=0.814; null mean=0.472, 95th pct=0.608; p=0.0476
